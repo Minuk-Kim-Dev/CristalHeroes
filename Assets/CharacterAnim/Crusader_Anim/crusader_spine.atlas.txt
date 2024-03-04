@@ -1,0 +1,826 @@
+
+crusader_spine.png
+size: 1022,1017
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+crusader_b/b_hair_crusader
+  rotate: false
+  xy: 2, 373
+  size: 622, 642
+  orig: 622, 645
+  offset: 0, 3
+  index: -1
+crusader_f/f_eyebrow
+  rotate: true
+  xy: 991, 712
+  size: 303, 29
+  orig: 303, 29
+  offset: 0, 0
+  index: -1
+crusader_f/f_eyebrow_close
+  rotate: false
+  xy: 626, 375
+  size: 311, 25
+  orig: 311, 25
+  offset: 0, 0
+  index: -1
+crusader_f/f_eyebrow_fight
+  rotate: true
+  xy: 942, 727
+  size: 288, 39
+  orig: 288, 39
+  offset: 0, 0
+  index: -1
+crusader_f/f_mouth
+  rotate: false
+  xy: 939, 384
+  size: 50, 16
+  orig: 50, 16
+  offset: 0, 0
+  index: -1
+crusader_f/f_mouth_fight
+  rotate: false
+  xy: 716, 2
+  size: 48, 13
+  orig: 48, 13
+  offset: 0, 0
+  index: -1
+crusader_f/f_r_hair_outside_crusader
+  rotate: false
+  xy: 626, 556
+  size: 314, 459
+  orig: 314, 459
+  offset: 0, 0
+  index: -1
+crusader_sf/sf_eyebrow_close
+  rotate: true
+  xy: 991, 424
+  size: 286, 23
+  orig: 286, 23
+  offset: 0, 0
+  index: -1
+crusader_sf/sf_l_eye_close
+  rotate: true
+  xy: 942, 617
+  size: 108, 33
+  orig: 108, 33
+  offset: 0, 0
+  index: -1
+crusader_sf/sf_mouth
+  rotate: false
+  xy: 766, 3
+  size: 51, 12
+  orig: 51, 12
+  offset: 0, 0
+  index: -1
+crusader_sf/sf_mouth_fight
+  rotate: false
+  xy: 819, 4
+  size: 52, 11
+  orig: 52, 11
+  offset: 0, 0
+  index: -1
+crusader_sf/sf_r_hair_inside_crusader
+  rotate: false
+  xy: 716, 17
+  size: 296, 356
+  orig: 296, 358
+  offset: 0, 2
+  index: -1
+crusader_sf/sf_r_hair_outside_crusader
+  rotate: true
+  xy: 626, 402
+  size: 152, 332
+  orig: 152, 338
+  offset: 0, 6
+  index: -1
+crusader_weapon
+  rotate: true
+  xy: 2, 5
+  size: 366, 712
+  orig: 366, 712
+  offset: 0, 0
+  index: -1
+
+crusader_spine2.png
+size: 1022,1012
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+crusader_b/b_badge_crusader
+  rotate: true
+  xy: 344, 9
+  size: 126, 162
+  orig: 126, 162
+  offset: 0, 0
+  index: -1
+crusader_b/b_hair_antenna_crusader
+  rotate: true
+  xy: 884, 957
+  size: 53, 90
+  orig: 53, 90
+  offset: 0, 0
+  index: -1
+crusader_b/b_l_calf_crusader
+  rotate: true
+  xy: 236, 710
+  size: 88, 140
+  orig: 88, 141
+  offset: 0, 1
+  index: -1
+crusader_b/b_l_hair_tail_crusader
+  rotate: true
+  xy: 2, 31
+  size: 122, 177
+  orig: 122, 177
+  offset: 0, 0
+  index: -1
+crusader_b/b_l_ribbon_crusader
+  rotate: false
+  xy: 476, 884
+  size: 84, 74
+  orig: 84, 75
+  offset: 0, 0
+  index: -1
+crusader_b/b_l_skirt_crusader
+  rotate: true
+  xy: 539, 375
+  size: 115, 185
+  orig: 115, 186
+  offset: 0, 1
+  index: -1
+crusader_b/b_l_thigh_crusader
+  rotate: true
+  xy: 723, 880
+  size: 76, 159
+  orig: 76, 160
+  offset: 0, 0
+  index: -1
+crusader_b/b_l_upperarm_crusader
+  rotate: true
+  xy: 520, 701
+  size: 92, 122
+  orig: 99, 123
+  offset: 0, 0
+  index: -1
+crusader_b/b_r_calf_crusader
+  rotate: true
+  xy: 378, 707
+  size: 88, 140
+  orig: 88, 141
+  offset: 0, 1
+  index: -1
+crusader_b/b_r_forearm_crusader
+  rotate: true
+  xy: 181, 20
+  size: 133, 161
+  orig: 134, 161
+  offset: 1, 0
+  index: -1
+crusader_b/b_r_hair_tail_crusader
+  rotate: true
+  xy: 344, 137
+  size: 119, 178
+  orig: 120, 178
+  offset: 0, 0
+  index: -1
+crusader_b/b_r_ribbon_crusader
+  rotate: false
+  xy: 195, 901
+  size: 85, 73
+  orig: 85, 74
+  offset: 0, 0
+  index: -1
+crusader_b/b_r_skirt_crusader
+  rotate: true
+  xy: 726, 374
+  size: 115, 185
+  orig: 115, 186
+  offset: 0, 1
+  index: -1
+crusader_b/b_r_thigh_crusader
+  rotate: true
+  xy: 562, 882
+  size: 74, 159
+  orig: 74, 159
+  offset: 0, 0
+  index: -1
+crusader_f/f_l_thigh_crusader
+  rotate: true
+  xy: 562, 882
+  size: 74, 159
+  orig: 74, 159
+  offset: 0, 0
+  index: -1
+crusader_b/b_r_upperarm_crusader
+  rotate: true
+  xy: 668, 598
+  size: 99, 127
+  orig: 99, 128
+  offset: 0, 0
+  index: -1
+crusader_f/f_badge_crusader
+  rotate: true
+  xy: 508, 7
+  size: 126, 162
+  orig: 126, 162
+  offset: 0, 0
+  index: -1
+crusader_sb/sb_badge_crusader
+  rotate: true
+  xy: 508, 7
+  size: 126, 162
+  orig: 126, 162
+  offset: 0, 0
+  index: -1
+crusader_sf/sf_badge_crusader
+  rotate: true
+  xy: 508, 7
+  size: 126, 162
+  orig: 126, 162
+  offset: 0, 0
+  index: -1
+crusader_f/f_hair_antenna_crusader
+  rotate: true
+  xy: 2, 925
+  size: 53, 89
+  orig: 53, 90
+  offset: 0, 1
+  index: -1
+crusader_f/f_l_calf_crusader
+  rotate: true
+  xy: 735, 793
+  size: 85, 139
+  orig: 87, 139
+  offset: 1, 0
+  index: -1
+crusader_f/f_l_eye
+  rotate: false
+  xy: 121, 275
+  size: 146, 115
+  orig: 146, 115
+  offset: 0, 0
+  index: -1
+crusader_f/f_l_eye_close
+  rotate: false
+  xy: 100, 976
+  size: 102, 34
+  orig: 102, 34
+  offset: 0, 0
+  index: -1
+crusader_f/f_l_eye_fight
+  rotate: false
+  xy: 471, 797
+  size: 130, 83
+  orig: 130, 83
+  offset: 0, 0
+  index: -1
+crusader_f/f_l_forearm_crusader
+  rotate: false
+  xy: 888, 99
+  size: 132, 155
+  orig: 132, 155
+  offset: 0, 0
+  index: -1
+crusader_f/f_l_hair_tail_crusader
+  rotate: true
+  xy: 524, 135
+  size: 120, 178
+  orig: 120, 178
+  offset: 0, 0
+  index: -1
+crusader_f/f_l_ribbon_crusader
+  rotate: false
+  xy: 282, 885
+  size: 95, 73
+  orig: 95, 73
+  offset: 0, 0
+  index: -1
+crusader_f/f_l_skirt_crusader
+  rotate: true
+  xy: 417, 258
+  size: 115, 186
+  orig: 115, 186
+  offset: 0, 0
+  index: -1
+crusader_f/f_l_upperarm_crusader
+  rotate: true
+  xy: 2, 531
+  size: 104, 137
+  orig: 104, 137
+  offset: 0, 0
+  index: -1
+crusader_f/f_r_calf_crusader
+  rotate: true
+  xy: 876, 791
+  size: 85, 138
+  orig: 86, 138
+  offset: 0, 0
+  index: -1
+crusader_f/f_r_eye
+  rotate: false
+  xy: 269, 275
+  size: 146, 115
+  orig: 146, 115
+  offset: 0, 0
+  index: -1
+crusader_f/f_r_eye_close
+  rotate: false
+  xy: 204, 976
+  size: 102, 34
+  orig: 102, 34
+  offset: 0, 0
+  index: -1
+crusader_f/f_r_eye_fight
+  rotate: false
+  xy: 603, 795
+  size: 130, 83
+  orig: 130, 83
+  offset: 0, 0
+  index: -1
+crusader_f/f_r_hair_tail_crusader
+  rotate: true
+  xy: 704, 134
+  size: 120, 182
+  orig: 120, 182
+  offset: 0, 0
+  index: -1
+crusader_f/f_r_ribbon_crusader
+  rotate: false
+  xy: 379, 885
+  size: 95, 73
+  orig: 96, 73
+  offset: 0, 0
+  index: -1
+crusader_f/f_r_skirt_crusader
+  rotate: true
+  xy: 605, 257
+  size: 115, 186
+  orig: 115, 186
+  offset: 0, 0
+  index: -1
+crusader_f/f_r_thigh_crusader
+  rotate: true
+  xy: 84, 823
+  size: 76, 160
+  orig: 76, 160
+  offset: 0, 0
+  index: -1
+crusader_f/f_r_upperarm_crusader
+  rotate: true
+  xy: 471, 495
+  size: 104, 142
+  orig: 109, 142
+  offset: 0, 0
+  index: -1
+crusader_sb/sb_hair_antenna_crusader
+  rotate: true
+  xy: 884, 878
+  size: 77, 94
+  orig: 77, 94
+  offset: 0, 0
+  index: -1
+crusader_sf/sf_hair_antenna_crusader
+  rotate: true
+  xy: 884, 878
+  size: 77, 94
+  orig: 77, 94
+  offset: 0, 0
+  index: -1
+crusader_sb/sb_l_calf__crusader
+  rotate: false
+  xy: 2, 285
+  size: 117, 137
+  orig: 117, 137
+  offset: 0, 0
+  index: -1
+crusader_sb/sb_l_forearm_crusader
+  rotate: true
+  xy: 168, 155
+  size: 118, 174
+  orig: 118, 174
+  offset: 0, 0
+  index: -1
+crusader_sb/sb_l_hair_tail_crusader
+  rotate: true
+  xy: 263, 392
+  size: 107, 158
+  orig: 121, 158
+  offset: 14, 0
+  index: -1
+crusader_sb/sb_l_ribbon_crusader
+  rotate: true
+  xy: 2, 846
+  size: 77, 80
+  orig: 80, 80
+  offset: 3, 0
+  index: -1
+crusader_sb/sb_l_skirt_crusader
+  rotate: true
+  xy: 798, 491
+  size: 105, 182
+  orig: 105, 182
+  offset: 0, 0
+  index: -1
+crusader_sb/sb_l_thigh_crusader
+  rotate: true
+  xy: 793, 256
+  size: 116, 188
+  orig: 116, 188
+  offset: 0, 0
+  index: -1
+crusader_sb/sb_l_upperarm_crusader
+  rotate: true
+  xy: 2, 736
+  size: 85, 112
+  orig: 85, 112
+  offset: 0, 0
+  index: -1
+crusader_sb/sb_r_calf_crusader
+  rotate: true
+  xy: 2, 637
+  size: 94, 146
+  orig: 94, 146
+  offset: 0, 0
+  index: -1
+crusader_sb/sb_r_ribbon_crusader
+  rotate: false
+  xy: 423, 380
+  size: 114, 113
+  orig: 114, 113
+  offset: 0, 0
+  index: -1
+crusader_sb/sb_r_skirt_crusader
+  rotate: true
+  xy: 141, 508
+  size: 99, 175
+  orig: 99, 175
+  offset: 0, 0
+  index: -1
+crusader_sb/sb_r_thigh_crusader
+  rotate: true
+  xy: 644, 699
+  size: 92, 179
+  orig: 92, 179
+  offset: 0, 0
+  index: -1
+crusader_sb/sb_r_upperarm_crusader
+  rotate: true
+  xy: 2, 424
+  size: 105, 128
+  orig: 105, 128
+  offset: 0, 0
+  index: -1
+crusader_sf/sf_eyebrow
+  rotate: false
+  xy: 308, 960
+  size: 288, 50
+  orig: 288, 50
+  offset: 0, 0
+  index: -1
+crusader_sf/sf_eyebrow_fight
+  rotate: false
+  xy: 598, 958
+  size: 284, 52
+  orig: 284, 52
+  offset: 0, 0
+  index: -1
+crusader_sf/sf_l_calf_crusader
+  rotate: true
+  xy: 318, 501
+  size: 101, 151
+  orig: 101, 151
+  offset: 0, 0
+  index: -1
+crusader_sf/sf_l_eye
+  rotate: false
+  xy: 132, 401
+  size: 129, 105
+  orig: 129, 105
+  offset: 0, 0
+  index: -1
+crusader_sf/sf_l_eye_fight
+  rotate: false
+  xy: 150, 612
+  size: 122, 96
+  orig: 122, 96
+  offset: 0, 0
+  index: -1
+crusader_sf/sf_l_hair_tail_crusader
+  rotate: true
+  xy: 2, 157
+  size: 116, 164
+  orig: 116, 164
+  offset: 0, 0
+  index: -1
+crusader_sf/sf_l_ribbon_crusader
+  rotate: false
+  xy: 246, 805
+  size: 104, 78
+  orig: 104, 78
+  offset: 0, 0
+  index: -1
+crusader_sf/sf_l_thigh_crusader
+  rotate: true
+  xy: 615, 492
+  size: 104, 181
+  orig: 104, 181
+  offset: 0, 0
+  index: -1
+crusader_sf/sf_l_upperarm_crusader
+  rotate: true
+  xy: 274, 609
+  size: 96, 128
+  orig: 96, 128
+  offset: 0, 0
+  index: -1
+crusader_sf/sf_r_calf_crusader
+  rotate: true
+  xy: 520, 601
+  size: 96, 146
+  orig: 96, 146
+  offset: 0, 0
+  index: -1
+crusader_sf/sf_r_eye
+  rotate: false
+  xy: 404, 604
+  size: 114, 101
+  orig: 114, 101
+  offset: 0, 0
+  index: -1
+crusader_sf/sf_r_eye_close
+  rotate: false
+  xy: 2, 980
+  size: 96, 30
+  orig: 96, 30
+  offset: 0, 0
+  index: -1
+crusader_sf/sf_r_eye_fight
+  rotate: false
+  xy: 116, 733
+  size: 118, 88
+  orig: 118, 88
+  offset: 0, 0
+  index: -1
+crusader_sf/sf_r_forearm_crusader
+  rotate: true
+  xy: 672, 2
+  size: 130, 174
+  orig: 130, 174
+  offset: 0, 0
+  index: -1
+crusader_sf/sf_r_ribbon_crusader
+  rotate: false
+  xy: 93, 902
+  size: 100, 72
+  orig: 100, 72
+  offset: 0, 0
+  index: -1
+crusader_sf/sf_r_skirt_crusader
+  rotate: true
+  xy: 825, 697
+  size: 92, 174
+  orig: 92, 174
+  offset: 0, 0
+  index: -1
+crusader_sf/sf_r_thigh_crusader
+  rotate: true
+  xy: 797, 598
+  size: 97, 168
+  orig: 101, 168
+  offset: 0, 0
+  index: -1
+crusader_sf/sf_r_upperarm_crusader
+  rotate: true
+  xy: 352, 800
+  size: 83, 117
+  orig: 83, 117
+  offset: 0, 0
+  index: -1
+
+crusader_spine3.png
+size: 1012,941
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+crusader_f/f_face_crusader
+  rotate: true
+  xy: 590, 461
+  size: 478, 420
+  orig: 478, 420
+  offset: 0, 0
+  index: -1
+crusader_f/f_l_hair_outside_crusader
+  rotate: false
+  xy: 590, 2
+  size: 310, 457
+  orig: 310, 457
+  offset: 0, 0
+  index: -1
+crusader_sb/sb_b_hair_crusader
+  rotate: false
+  xy: 2, 297
+  size: 586, 642
+  orig: 598, 642
+  offset: 0, 0
+  index: -1
+crusader_sf/sf_l_hair_outside_crusader
+  rotate: true
+  xy: 2, 13
+  size: 282, 462
+  orig: 296, 493
+  offset: 14, 1
+  index: -1
+
+crusader_spine4.png
+size: 1018,952
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+crusader_f/f_hair_b_crusader
+  rotate: false
+  xy: 2, 307
+  size: 567, 643
+  orig: 571, 656
+  offset: 0, 13
+  index: -1
+crusader_f/f_l_hair_inside_crusader
+  rotate: false
+  xy: 571, 582
+  size: 260, 368
+  orig: 260, 368
+  offset: 0, 0
+  index: -1
+crusader_f/f_r_hair_inside_crusader
+  rotate: true
+  xy: 571, 324
+  size: 256, 365
+  orig: 258, 365
+  offset: 0, 0
+  index: -1
+crusader_sb/sb_b_hair_tail_crusader
+  rotate: true
+  xy: 359, 32
+  size: 273, 415
+  orig: 273, 417
+  offset: 0, 2
+  index: -1
+crusader_sb/sb_body_crusader
+  rotate: true
+  xy: 833, 761
+  size: 189, 176
+  orig: 189, 176
+  offset: 0, 0
+  index: -1
+crusader_sb/sb_r_forearm_crusader
+  rotate: true
+  xy: 833, 611
+  size: 148, 183
+  orig: 148, 183
+  offset: 0, 0
+  index: -1
+crusader_sf/sf_l_hair_inside_crusader
+  rotate: false
+  xy: 776, 2
+  size: 221, 320
+  orig: 248, 326
+  offset: 0, 6
+  index: -1
+crusader_sf/sf_m_hair_crusader
+  rotate: true
+  xy: 2, 30
+  size: 275, 355
+  orig: 284, 356
+  offset: 0, 1
+  index: -1
+
+crusader_spine5.png
+size: 1019,572
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+crusader_b/b_body_crusader
+  rotate: false
+  xy: 732, 213
+  size: 196, 194
+  orig: 196, 194
+  offset: 0, 0
+  index: -1
+crusader_b/b_l_forearm_crusader
+  rotate: true
+  xy: 382, 428
+  size: 142, 169
+  orig: 142, 176
+  offset: 0, 7
+  index: -1
+crusader_b/b_m_skirt_crusader
+  rotate: true
+  xy: 2, 283
+  size: 152, 175
+  orig: 152, 175
+  offset: 0, 0
+  index: -1
+crusader_f/f_body_crusader
+  rotate: true
+  xy: 219, 77
+  size: 195, 204
+  orig: 195, 204
+  offset: 0, 0
+  index: -1
+crusader_f/f_m_hair_crusader
+  rotate: true
+  xy: 425, 2
+  size: 209, 345
+  orig: 209, 356
+  offset: 0, 11
+  index: -1
+crusader_f/f_m_skirt_crusader
+  rotate: true
+  xy: 378, 274
+  size: 152, 175
+  orig: 152, 175
+  offset: 0, 0
+  index: -1
+crusader_f/f_r_forearm_crusader
+  rotate: true
+  xy: 553, 428
+  size: 142, 154
+  orig: 142, 154
+  offset: 0, 0
+  index: -1
+crusader_sb/sb_m_skirt_crusader
+  rotate: true
+  xy: 868, 409
+  size: 161, 149
+  orig: 161, 149
+  offset: 0, 0
+  index: -1
+crusader_sb/sb_r_hair_tail_crusader
+  rotate: true
+  xy: 183, 429
+  size: 141, 197
+  orig: 141, 197
+  offset: 0, 0
+  index: -1
+crusader_sf/sf_body_crusader
+  rotate: true
+  xy: 2, 80
+  size: 194, 215
+  orig: 194, 215
+  offset: 0, 0
+  index: -1
+crusader_sf/sf_l_forearm_crusader
+  rotate: true
+  xy: 179, 276
+  size: 151, 197
+  orig: 151, 197
+  offset: 0, 0
+  index: -1
+crusader_sf/sf_l_skirt_crusader
+  rotate: true
+  xy: 2, 437
+  size: 133, 179
+  orig: 133, 179
+  offset: 0, 0
+  index: -1
+crusader_sf/sf_m_skirt_crusader
+  rotate: false
+  xy: 555, 269
+  size: 175, 157
+  orig: 175, 157
+  offset: 0, 0
+  index: -1
+crusader_sf/sf_r_hair_tail_crusader
+  rotate: false
+  xy: 709, 428
+  size: 157, 142
+  orig: 157, 142
+  offset: 0, 0
+  index: -1
+
+crusader_spine6.png
+size: 516,488
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+crusader_sf/sf_face_crusader
+  rotate: false
+  xy: 2, 2
+  size: 512, 484
+  orig: 512, 484
+  offset: 0, 0
+  index: -1
+
+crusader_spine7.png
+size: 559,639
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+crusader_sf/sf_b_hair_crusader
+  rotate: false
+  xy: 2, 2
+  size: 555, 635
+  orig: 555, 635
+  offset: 0, 0
+  index: -1

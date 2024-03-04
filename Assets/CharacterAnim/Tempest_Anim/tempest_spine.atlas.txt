@@ -1,0 +1,840 @@
+
+tempest_spine.png
+size: 1024,1000
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+knight_tempest_b/b_l_calf_tempest
+  rotate: true
+  xy: 383, 239
+  size: 115, 223
+  orig: 115, 223
+  offset: 0, 0
+  index: -1
+knight_tempest_b/b_l_forearm
+  rotate: true
+  xy: 633, 672
+  size: 81, 117
+  orig: 81, 117
+  offset: 0, 0
+  index: -1
+knight_tempest_b/b_l_gauntlet_tempest
+  rotate: true
+  xy: 535, 958
+  size: 40, 134
+  orig: 40, 134
+  offset: 0, 0
+  index: -1
+knight_tempest_b/b_l_hand_tempest
+  rotate: true
+  xy: 786, 832
+  size: 65, 76
+  orig: 65, 76
+  offset: 0, 0
+  index: -1
+knight_tempest_b/b_l_thigh_tempest
+  rotate: true
+  xy: 239, 137
+  size: 121, 139
+  orig: 121, 139
+  offset: 0, 0
+  index: -1
+knight_tempest_b/b_neck_fur_tempest
+  rotate: false
+  xy: 847, 734
+  size: 168, 74
+  orig: 168, 74
+  offset: 0, 0
+  index: -1
+knight_tempest_b/b_r_calf_tempest
+  rotate: true
+  xy: 608, 202
+  size: 115, 223
+  orig: 115, 223
+  offset: 0, 0
+  index: -1
+knight_tempest_b/b_r_forearm_tempest
+  rotate: true
+  xy: 752, 651
+  size: 81, 117
+  orig: 81, 117
+  offset: 0, 0
+  index: -1
+knight_tempest_b/b_r_gauntlet_tempest
+  rotate: true
+  xy: 671, 958
+  size: 40, 134
+  orig: 40, 134
+  offset: 0, 0
+  index: -1
+knight_tempest_b/b_r_hand_tempest
+  rotate: true
+  xy: 864, 819
+  size: 65, 76
+  orig: 65, 76
+  offset: 0, 0
+  index: -1
+knight_tempest_b/b_r_thigh_tempest
+  rotate: true
+  xy: 130, 371
+  size: 118, 143
+  orig: 118, 143
+  offset: 0, 0
+  index: -1
+knight_tempest_f/f_belt_1_tempest
+  rotate: false
+  xy: 332, 842
+  size: 180, 59
+  orig: 180, 66
+  offset: 0, 7
+  index: -1
+knight_tempest_f/f_belt_2_tempest
+  rotate: true
+  xy: 652, 900
+  size: 56, 93
+  orig: 56, 97
+  offset: 0, 0
+  index: -1
+knight_tempest_f/f_eye_fight_frown
+  rotate: false
+  xy: 68, 985
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+knight_tempest_f/f_fight_mouth
+  rotate: false
+  xy: 186, 967
+  size: 71, 31
+  orig: 71, 31
+  offset: 0, 0
+  index: -1
+knight_tempest_f/f_l_calf_tempest
+  rotate: true
+  xy: 661, 319
+  size: 113, 187
+  orig: 113, 187
+  offset: 0, 0
+  index: -1
+knight_tempest_f/f_l_eye
+  rotate: false
+  xy: 380, 116
+  size: 157, 121
+  orig: 157, 121
+  offset: 0, 0
+  index: -1
+knight_tempest_f/f_l_eye_close
+  rotate: false
+  xy: 106, 919
+  size: 112, 46
+  orig: 112, 46
+  offset: 0, 0
+  index: -1
+knight_tempest_f/f_l_eye_fight
+  rotate: false
+  xy: 130, 491
+  size: 148, 115
+  orig: 148, 115
+  offset: 0, 0
+  index: -1
+knight_tempest_f/f_l_forearm_1_tempest
+  rotate: true
+  xy: 729, 755
+  size: 75, 116
+  orig: 75, 116
+  offset: 0, 0
+  index: -1
+knight_tempest_f/f_l_hand_1_tempest
+  rotate: true
+  xy: 886, 886
+  size: 58, 108
+  orig: 58, 108
+  offset: 0, 0
+  index: -1
+knight_tempest_f/f_l_hand_2_tempest
+  rotate: false
+  xy: 259, 963
+  size: 53, 35
+  orig: 53, 35
+  offset: 0, 0
+  index: -1
+knight_tempest_f/f_l_hand_3_tempest
+  rotate: false
+  xy: 937, 946
+  size: 66, 52
+  orig: 66, 52
+  offset: 0, 0
+  index: -1
+knight_tempest_f/f_l_knee_tempest
+  rotate: true
+  xy: 297, 692
+  size: 79, 115
+  orig: 79, 115
+  offset: 0, 0
+  index: -1
+knight_tempest_f/f_l_thigh_tempest
+  rotate: false
+  xy: 294, 592
+  size: 122, 92
+  orig: 122, 92
+  offset: 0, 0
+  index: -1
+knight_tempest_f/f_mouth
+  rotate: false
+  xy: 2, 989
+  size: 27, 9
+  orig: 27, 9
+  offset: 0, 0
+  index: -1
+knight_tempest_f/f_pelvis_tempest
+  rotate: false
+  xy: 2, 142
+  size: 235, 116
+  orig: 235, 116
+  offset: 0, 0
+  index: -1
+knight_tempest_f/f_r_calf_tempest
+  rotate: true
+  xy: 475, 356
+  size: 111, 184
+  orig: 111, 184
+  offset: 0, 0
+  index: -1
+knight_tempest_f/f_r_eye
+  rotate: false
+  xy: 539, 79
+  size: 157, 121
+  orig: 157, 121
+  offset: 0, 0
+  index: -1
+knight_tempest_f/f_r_eye_close
+  rotate: false
+  xy: 220, 915
+  size: 119, 46
+  orig: 119, 46
+  offset: 0, 0
+  index: -1
+knight_tempest_f/f_r_eye_fight
+  rotate: false
+  xy: 850, 288
+  size: 149, 115
+  orig: 149, 115
+  offset: 0, 0
+  index: -1
+knight_tempest_f/f_r_forearm_1_tempest
+  rotate: true
+  xy: 612, 759
+  size: 73, 115
+  orig: 73, 115
+  offset: 0, 0
+  index: -1
+knight_tempest_f/f_r_hand_1_tempest
+  rotate: true
+  xy: 75, 858
+  size: 59, 108
+  orig: 59, 108
+  offset: 0, 0
+  index: -1
+knight_tempest_f/f_r_hand_2_tempest
+  rotate: false
+  xy: 314, 963
+  size: 54, 35
+  orig: 54, 35
+  offset: 0, 0
+  index: -1
+knight_tempest_f/f_r_hand_3_tempest
+  rotate: false
+  xy: 341, 905
+  size: 67, 53
+  orig: 67, 53
+  offset: 0, 0
+  index: -1
+knight_tempest_f/f_r_knee_tempest
+  rotate: true
+  xy: 871, 650
+  size: 82, 111
+  orig: 82, 111
+  offset: 0, 0
+  index: -1
+knight_tempest_f/f_r_thigh_tempest
+  rotate: false
+  xy: 2, 523
+  size: 126, 104
+  orig: 126, 104
+  offset: 0, 0
+  index: -1
+knight_tempest_f/f_scarf_1_tempest
+  rotate: false
+  xy: 514, 840
+  size: 133, 60
+  orig: 133, 60
+  offset: 0, 0
+  index: -1
+knight_tempest_f/f_scarf_2_tempest
+  rotate: true
+  xy: 747, 899
+  size: 56, 137
+  orig: 65, 137
+  offset: 9, 0
+  index: -1
+knight_tempest_sb/sb_l_claf_tempest
+  rotate: true
+  xy: 692, 434
+  size: 109, 203
+  orig: 109, 203
+  offset: 0, 0
+  index: -1
+knight_tempest_sb/sb_l_forearm_tempest
+  rotate: true
+  xy: 418, 583
+  size: 92, 138
+  orig: 92, 138
+  offset: 0, 0
+  index: -1
+knight_tempest_sb/sb_l_gauntlet_tempest
+  rotate: true
+  xy: 410, 903
+  size: 54, 119
+  orig: 54, 119
+  offset: 0, 0
+  index: -1
+knight_tempest_sb/sb_l_hand_tempest
+  rotate: true
+  xy: 942, 810
+  size: 74, 80
+  orig: 74, 80
+  offset: 0, 0
+  index: -1
+knight_tempest_sb/sb_l_thigh_tempest
+  rotate: true
+  xy: 833, 167
+  size: 119, 141
+  orig: 119, 141
+  offset: 0, 0
+  index: -1
+knight_tempest_sb/sb_neck_collar_tempest
+  rotate: false
+  xy: 185, 857
+  size: 145, 56
+  orig: 145, 56
+  offset: 0, 0
+  index: -1
+knight_tempest_sb/sb_pelvis_tempest
+  rotate: false
+  xy: 2, 629
+  size: 203, 81
+  orig: 203, 88
+  offset: 0, 0
+  index: -1
+knight_tempest_sb/sb_r_calf_tempest
+  rotate: true
+  xy: 275, 365
+  size: 109, 198
+  orig: 109, 198
+  offset: 0, 0
+  index: -1
+knight_tempest_sb/sb_r_forearm_tempest
+  rotate: true
+  xy: 414, 686
+  size: 79, 118
+  orig: 79, 118
+  offset: 0, 0
+  index: -1
+knight_tempest_sb/sb_r_gauntlet_tempest
+  rotate: true
+  xy: 2, 933
+  size: 47, 102
+  orig: 47, 102
+  offset: 0, 0
+  index: -1
+knight_tempest_sb/sb_r_hand_tempest
+  rotate: true
+  xy: 715, 834
+  size: 63, 69
+  orig: 63, 69
+  offset: 0, 0
+  index: -1
+knight_tempest_sb/sb_r_thigh_tempest
+  rotate: false
+  xy: 897, 405
+  size: 118, 138
+  orig: 118, 138
+  offset: 0, 0
+  index: -1
+knight_tempest_sf/s_eye_fight_frown
+  rotate: true
+  xy: 87, 982
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
+knight_tempest_sf/sf_belt_1_tempest
+  rotate: false
+  xy: 124, 789
+  size: 200, 66
+  orig: 200, 66
+  offset: 0, 0
+  index: -1
+knight_tempest_sf/sf_belt_2_tempest
+  rotate: true
+  xy: 326, 773
+  size: 67, 130
+  orig: 67, 130
+  offset: 0, 0
+  index: -1
+knight_tempest_sf/sf_eye_fight_mouth_tempest
+  rotate: false
+  xy: 110, 972
+  size: 74, 26
+  orig: 74, 26
+  offset: 0, 0
+  index: -1
+knight_tempest_sf/sf_eye_mouth_tempest
+  rotate: false
+  xy: 31, 989
+  size: 35, 9
+  orig: 35, 9
+  offset: 0, 0
+  index: -1
+knight_tempest_sf/sf_l_calf_tempest
+  rotate: true
+  xy: 2, 14
+  size: 126, 207
+  orig: 126, 207
+  offset: 0, 0
+  index: -1
+knight_tempest_sf/sf_l_eye_close_tempest
+  rotate: false
+  xy: 807, 957
+  size: 128, 41
+  orig: 128, 41
+  offset: 0, 0
+  index: -1
+knight_tempest_sf/sf_l_eye_fight_tempest
+  rotate: false
+  xy: 692, 547
+  size: 140, 102
+  orig: 140, 102
+  offset: 0, 0
+  index: -1
+knight_tempest_sf/sf_l_eye_tempest
+  rotate: false
+  xy: 833, 42
+  size: 151, 123
+  orig: 151, 123
+  offset: 0, 0
+  index: -1
+knight_tempest_sf/sf_l_forearm_tempest
+  rotate: true
+  xy: 558, 577
+  size: 93, 132
+  orig: 93, 132
+  offset: 0, 0
+  index: -1
+knight_tempest_sf/sf_l_gauntlet_tempest
+  rotate: true
+  xy: 2, 791
+  size: 65, 120
+  orig: 65, 120
+  offset: 0, 0
+  index: -1
+knight_tempest_sf/sf_l_hand_tempest
+  rotate: false
+  xy: 649, 836
+  size: 64, 62
+  orig: 64, 62
+  offset: 0, 0
+  index: -1
+knight_tempest_sf/sf_l_knee_tempest
+  rotate: false
+  xy: 207, 608
+  size: 85, 102
+  orig: 85, 102
+  offset: 0, 0
+  index: -1
+knight_tempest_sf/sf_l_thigh_tempest
+  rotate: false
+  xy: 2, 388
+  size: 126, 133
+  orig: 126, 133
+  offset: 0, 0
+  index: -1
+knight_tempest_sf/sf_pelvis_tempest
+  rotate: false
+  xy: 479, 469
+  size: 211, 106
+  orig: 211, 106
+  offset: 0, 0
+  index: -1
+knight_tempest_sf/sf_r_calf_tempest
+  rotate: true
+  xy: 280, 476
+  size: 105, 197
+  orig: 105, 197
+  offset: 0, 0
+  index: -1
+knight_tempest_sf/sf_r_cardigan_tempest
+  rotate: true
+  xy: 2, 260
+  size: 103, 379
+  orig: 117, 379
+  offset: 0, 0
+  index: -1
+knight_tempest_sf/sf_r_eye_close_tempest
+  rotate: false
+  xy: 424, 959
+  size: 109, 39
+  orig: 109, 39
+  offset: 0, 0
+  index: -1
+knight_tempest_sf/sf_r_eye_fight_tempest
+  rotate: false
+  xy: 698, 73
+  size: 133, 127
+  orig: 133, 127
+  offset: 0, 0
+  index: -1
+knight_tempest_sf/sf_r_eye_tempest
+  rotate: false
+  xy: 211, 2
+  size: 148, 133
+  orig: 148, 133
+  offset: 0, 0
+  index: -1
+knight_tempest_sf/sf_r_forearm_tempest
+  rotate: true
+  xy: 160, 712
+  size: 75, 135
+  orig: 75, 135
+  offset: 0, 0
+  index: -1
+knight_tempest_sf/sf_r_gauntlet_tempest
+  rotate: true
+  xy: 531, 902
+  size: 54, 119
+  orig: 54, 119
+  offset: 0, 0
+  index: -1
+knight_tempest_sf/sf_r_hand_tempest
+  rotate: true
+  xy: 2, 873
+  size: 58, 71
+  orig: 58, 71
+  offset: 0, 0
+  index: -1
+knight_tempest_sf/sf_r_knee_tempest
+  rotate: true
+  xy: 534, 677
+  size: 80, 97
+  orig: 80, 97
+  offset: 0, 0
+  index: -1
+knight_tempest_sf/sf_r_thigh_tempest
+  rotate: true
+  xy: 834, 545
+  size: 103, 145
+  orig: 103, 145
+  offset: 0, 0
+  index: -1
+knight_tempest_sf/sf_r_thumb_tempest
+  rotate: true
+  xy: 370, 960
+  size: 38, 52
+  orig: 38, 52
+  offset: 0, 0
+  index: -1
+knight_tempest_sf/sf_scarf_1_tempest
+  rotate: false
+  xy: 458, 767
+  size: 152, 71
+  orig: 152, 71
+  offset: 0, 0
+  index: -1
+knight_tempest_sf/sf_scarf_2_tempest
+  rotate: true
+  xy: 2, 713
+  size: 74, 156
+  orig: 74, 156
+  offset: 0, 0
+  index: -1
+
+tempest_spine2.png
+size: 1016,971
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+knight_tempest_b/b_l_upperarm_tempest
+  rotate: true
+  xy: 464, 697
+  size: 142, 229
+  orig: 142, 230
+  offset: 0, 0
+  index: -1
+knight_tempest_b/b_pelvis_tempest
+  rotate: false
+  xy: 229, 701
+  size: 233, 138
+  orig: 233, 138
+  offset: 0, 0
+  index: -1
+knight_tempest_b/b_r_upperarm_tempest
+  rotate: true
+  xy: 711, 840
+  size: 129, 238
+  orig: 129, 238
+  offset: 0, 0
+  index: -1
+knight_tempest_f/f_body_tempest
+  rotate: true
+  xy: 500, 189
+  size: 185, 206
+  orig: 185, 206
+  offset: 0, 0
+  index: -1
+knight_tempest_f/f_face_shadow_tempest
+  rotate: false
+  xy: 229, 540
+  size: 439, 155
+  orig: 439, 187
+  offset: 0, 32
+  index: -1
+knight_tempest_f/f_l_cardigan_tempest
+  rotate: true
+  xy: 2, 841
+  size: 128, 352
+  orig: 133, 362
+  offset: 0, 10
+  index: -1
+knight_tempest_f/f_l_upperarm_tempest
+  rotate: true
+  xy: 2, 547
+  size: 158, 225
+  orig: 158, 225
+  offset: 0, 0
+  index: -1
+knight_tempest_f/f_neck_fur_tempest
+  rotate: false
+  xy: 634, 376
+  size: 235, 160
+  orig: 235, 160
+  offset: 0, 0
+  index: -1
+knight_tempest_f/f_r_cardigan_tempest
+  rotate: true
+  xy: 356, 841
+  size: 128, 353
+  orig: 131, 361
+  offset: 3, 8
+  index: -1
+knight_tempest_f/f_r_upperarm_tempest
+  rotate: true
+  xy: 2, 386
+  size: 159, 225
+  orig: 159, 225
+  offset: 0, 0
+  index: -1
+knight_tempest_sb/sb_l_upperarm_tempest
+  rotate: true
+  xy: 2, 222
+  size: 162, 217
+  orig: 163, 217
+  offset: 0, 0
+  index: -1
+knight_tempest_sb/sb_r_upperarm_tempest
+  rotate: true
+  xy: 2, 707
+  size: 132, 225
+  orig: 132, 226
+  offset: 0, 1
+  index: -1
+knight_tempest_sf/sf_body_tempest
+  rotate: true
+  xy: 708, 189
+  size: 185, 237
+  orig: 185, 237
+  offset: 0, 0
+  index: -1
+knight_tempest_sf/sf_l_cardigan_tempest
+  rotate: true
+  xy: 229, 381
+  size: 157, 403
+  orig: 157, 403
+  offset: 0, 0
+  index: -1
+knight_tempest_sf/sf_l_upperarm_tempest
+  rotate: true
+  xy: 670, 538
+  size: 156, 264
+  orig: 156, 264
+  offset: 0, 0
+  index: -1
+knight_tempest_sf/sf_neck_fur_tempest
+  rotate: false
+  xy: 221, 210
+  size: 277, 169
+  orig: 277, 169
+  offset: 0, 0
+  index: -1
+knight_tempest_sf/sf_r_upperarm_tempest
+  rotate: true
+  xy: 695, 696
+  size: 142, 265
+  orig: 166, 265
+  offset: 0, 0
+  index: -1
+weapon_tempest
+  rotate: true
+  xy: 2, 2
+  size: 185, 1012
+  orig: 185, 1012
+  offset: 0, 0
+  index: -1
+
+tempest_spine3.png
+size: 920,1014
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+knight_tempest_b/b_body_tempest
+  rotate: true
+  xy: 2, 307
+  size: 263, 361
+  orig: 263, 361
+  offset: 0, 0
+  index: -1
+knight_tempest_f/f_l_hair_tempest
+  rotate: true
+  xy: 365, 286
+  size: 263, 472
+  orig: 263, 480
+  offset: 0, 8
+  index: -1
+knight_tempest_sb/sb_body_tempest
+  rotate: true
+  xy: 491, 794
+  size: 218, 333
+  orig: 269, 372
+  offset: 16, 39
+  index: -1
+knight_tempest_sb/sb_face_shadow_tempest
+  rotate: false
+  xy: 2, 572
+  size: 436, 227
+  orig: 436, 227
+  offset: 0, 0
+  index: -1
+knight_tempest_sf/sf_hair_shadow_tempest
+  rotate: false
+  xy: 2, 801
+  size: 487, 211
+  orig: 487, 211
+  offset: 0, 0
+  index: -1
+knight_tempest_sf/sf_l_hair_back_tempest
+  rotate: true
+  xy: 2, 2
+  size: 282, 454
+  orig: 282, 454
+  offset: 0, 0
+  index: -1
+knight_tempest_sf/sf_l_hair_tempest
+  rotate: true
+  xy: 440, 551
+  size: 241, 478
+  orig: 241, 478
+  offset: 0, 0
+  index: -1
+
+tempest_spine4.png
+size: 773,1006
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+knight_tempest_b/b_hair_tempest
+  rotate: false
+  xy: 2, 406
+  size: 668, 598
+  orig: 668, 598
+  offset: 0, 0
+  index: -1
+knight_tempest_f/f_m_hair_tempest
+  rotate: false
+  xy: 394, 2
+  size: 377, 402
+  orig: 377, 404
+  offset: 0, 0
+  index: -1
+knight_tempest_sf/sf_m_hair_tempest
+  rotate: false
+  xy: 2, 11
+  size: 390, 393
+  orig: 412, 393
+  offset: 22, 0
+  index: -1
+
+tempest_spine5.png
+size: 1017,971
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+knight_tempest_b/b_face_tempest
+  rotate: false
+  xy: 2, 524
+  size: 517, 445
+  orig: 517, 445
+  offset: 0, 0
+  index: -1
+knight_tempest_f/f_r_hair_tempest
+  rotate: true
+  xy: 516, 2
+  size: 517, 499
+  orig: 520, 504
+  offset: 0, 5
+  index: -1
+knight_tempest_sb/sb_face_tempest
+  rotate: false
+  xy: 521, 521
+  size: 463, 448
+  orig: 463, 448
+  offset: 0, 0
+  index: -1
+knight_tempest_sf/sf_r_hair_tempest
+  rotate: true
+  xy: 2, 76
+  size: 446, 512
+  orig: 446, 512
+  offset: 0, 0
+  index: -1
+
+tempest_spine6.png
+size: 571,914
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+knight_tempest_f/f_face_tempest
+  rotate: false
+  xy: 2, 466
+  size: 567, 446
+  orig: 567, 446
+  offset: 0, 0
+  index: -1
+knight_tempest_sf/sf_face_tempest
+  rotate: false
+  xy: 2, 2
+  size: 537, 462
+  orig: 537, 462
+  offset: 0, 0
+  index: -1
+
+tempest_spine7.png
+size: 674,554
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+knight_tempest_sb/sb_hair_tempest
+  rotate: false
+  xy: 2, 2
+  size: 670, 550
+  orig: 670, 550
+  offset: 0, 0
+  index: -1

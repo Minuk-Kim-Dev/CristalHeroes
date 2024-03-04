@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+  m_Name: bishop_spine_Atlas
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: ac9ea941e3c5af445b1811093c78aa89, type: 3}
+  materials:
+  - {fileID: 2100000, guid: 290d9cc485b7ecc418eed83b514b6e59, type: 2}
+  - {fileID: 2100000, guid: a30ef9f0967d3804ba81f07d0af960fa, type: 2}
+  - {fileID: 2100000, guid: 15aed17e8d255774695cada9369fcbfc, type: 2}
+  - {fileID: 2100000, guid: fd119633efa212648909373469f6c16c, type: 2}
+  - {fileID: 2100000, guid: 4a6b0cb2c5b750f47b7bb0681ed3a207, type: 2}
+  - {fileID: 2100000, guid: a0be78bf3d176e041a19ea9a47d59da0, type: 2}
+  - {fileID: 2100000, guid: bdb0e8f5cfcffb94d86f8ac7d5110894, type: 2}
+  - {fileID: 2100000, guid: 33ef6a709c67a8b4f97218fab7b5aeda, type: 2}

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+  m_Name: sacred_spine_Atlas
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: 6cf4c711b9d662943b867fdd87e74b11, type: 3}
+  materials:
+  - {fileID: 2100000, guid: 2401f3eeaf4479e4d813da7ec8afa87e, type: 2}
+  - {fileID: 2100000, guid: 68c9f07909034444fb56b00c4d265f1c, type: 2}
+  - {fileID: 2100000, guid: c37c1f8f1faad9e4fb8bb91693d61d72, type: 2}
+  - {fileID: 2100000, guid: d507e56ac2c86284fbc0696da44570a1, type: 2}
+  - {fileID: 2100000, guid: 52b978218ff86bf46bc72b0914dc51b4, type: 2}
+  - {fileID: 2100000, guid: 81e8dd43ed41fa3449c574ced6272a6e, type: 2}
+  - {fileID: 2100000, guid: a5850f9beedfa314284878d065f1ba30, type: 2}
+  - {fileID: 2100000, guid: b986cb911737b4b4d8796da0bbe4d0a2, type: 2}
+  - {fileID: 2100000, guid: 7c7dd77b9134e824abf111cd49125807, type: 2}
+  - {fileID: 2100000, guid: 8f874bf8a0f85194d86d1a9a096ca788, type: 2}
+  - {fileID: 2100000, guid: 67af7485ddb263940911687728f5c504, type: 2}

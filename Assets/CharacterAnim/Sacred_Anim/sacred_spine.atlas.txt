@@ -1,0 +1,913 @@
+
+sacred_spine.png
+size: 1019,1021
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bow_head
+  rotate: true
+  xy: 475, 610
+  size: 92, 97
+  orig: 92, 97
+  offset: 0, 0
+  index: -1
+sacred_b/b_badge
+  rotate: true
+  xy: 449, 508
+  size: 100, 106
+  orig: 100, 106
+  offset: 0, 0
+  index: -1
+sacred_b/b_body_up
+  rotate: false
+  xy: 363, 883
+  size: 209, 60
+  orig: 209, 60
+  offset: 0, 0
+  index: -1
+sacred_b/b_hair_ribbon
+  rotate: false
+  xy: 143, 611
+  size: 166, 88
+  orig: 166, 88
+  offset: 0, 0
+  index: -1
+sacred_b/b_l_calf
+  rotate: true
+  xy: 345, 202
+  size: 96, 180
+  orig: 96, 184
+  offset: 0, 0
+  index: -1
+sacred_b/b_l_forearm
+  rotate: true
+  xy: 574, 587
+  size: 91, 136
+  orig: 91, 136
+  offset: 0, 0
+  index: -1
+sacred_b/b_l_hand
+  rotate: true
+  xy: 700, 848
+  size: 70, 126
+  orig: 70, 126
+  offset: 0, 0
+  index: -1
+sacred_b/b_l_thigh
+  rotate: true
+  xy: 2, 520
+  size: 89, 184
+  orig: 89, 184
+  offset: 0, 0
+  index: -1
+sacred_b/b_l_upperarm
+  rotate: true
+  xy: 851, 199
+  size: 106, 156
+  orig: 106, 156
+  offset: 0, 0
+  index: -1
+sacred_b/b_r_calf
+  rotate: true
+  xy: 269, 340
+  size: 102, 169
+  orig: 102, 169
+  offset: 0, 0
+  index: -1
+sacred_b/b_r_forearm
+  rotate: true
+  xy: 311, 548
+  size: 91, 136
+  orig: 91, 136
+  offset: 0, 0
+  index: -1
+sacred_b/b_r_hand
+  rotate: true
+  xy: 828, 819
+  size: 70, 126
+  orig: 70, 126
+  offset: 0, 0
+  index: -1
+sacred_b/b_r_thigh
+  rotate: true
+  xy: 753, 653
+  size: 84, 194
+  orig: 84, 194
+  offset: 0, 0
+  index: -1
+sacred_b/b_r_upperarm
+  rotate: false
+  xy: 2, 162
+  size: 106, 156
+  orig: 106, 156
+  offset: 0, 0
+  index: -1
+sacred_f/f_body_up
+  rotate: false
+  xy: 110, 141
+  size: 224, 100
+  orig: 224, 100
+  offset: 0, 0
+  index: -1
+sacred_f/f_eye_close
+  rotate: false
+  xy: 2, 852
+  size: 351, 46
+  orig: 351, 46
+  offset: 0, 0
+  index: -1
+sacred_f/f_eyebrow_close
+  rotate: false
+  xy: 166, 991
+  size: 356, 28
+  orig: 356, 28
+  offset: 0, 0
+  index: -1
+sacred_f/f_eyebrow_fight
+  rotate: false
+  xy: 2, 900
+  size: 359, 43
+  orig: 359, 43
+  offset: 0, 0
+  index: -1
+sacred_f/f_eyebrow_normal
+  rotate: false
+  xy: 524, 986
+  size: 363, 33
+  orig: 363, 33
+  offset: 0, 0
+  index: -1
+sacred_f/f_hair_12
+  rotate: true
+  xy: 441, 394
+  size: 89, 229
+  orig: 89, 230
+  offset: 0, 1
+  index: -1
+sacred_f/f_hair_14
+  rotate: true
+  xy: 836, 51
+  size: 146, 178
+  orig: 146, 178
+  offset: 0, 0
+  index: -1
+sacred_f/f_hair_15
+  rotate: true
+  xy: 612, 680
+  size: 86, 139
+  orig: 86, 139
+  offset: 0, 0
+  index: -1
+sacred_f/f_l_calf
+  rotate: true
+  xy: 771, 739
+  size: 78, 194
+  orig: 78, 194
+  offset: 0, 0
+  index: -1
+sacred_f/f_l_forearm
+  rotate: true
+  xy: 298, 444
+  size: 102, 141
+  orig: 102, 141
+  offset: 0, 0
+  index: -1
+sacred_f/f_l_hand
+  rotate: true
+  xy: 2, 616
+  size: 87, 139
+  orig: 87, 139
+  offset: 0, 0
+  index: -1
+sacred_f/f_l_thigh
+  rotate: true
+  xy: 712, 564
+  size: 87, 184
+  orig: 87, 184
+  offset: 0, 0
+  index: -1
+sacred_f/f_l_upperarm
+  rotate: true
+  xy: 2, 320
+  size: 103, 153
+  orig: 103, 153
+  offset: 0, 0
+  index: -1
+sacred_f/f_mouth_fight
+  rotate: false
+  xy: 82, 1005
+  size: 42, 14
+  orig: 42, 14
+  offset: 0, 0
+  index: -1
+sacred_f/f_mouth_normal
+  rotate: false
+  xy: 2, 1010
+  size: 42, 9
+  orig: 42, 9
+  offset: 0, 0
+  index: -1
+sacred_f/f_r_calf
+  rotate: true
+  xy: 157, 243
+  size: 95, 186
+  orig: 109, 186
+  offset: 0, 0
+  index: -1
+sacred_f/f_r_forearm
+  rotate: false
+  xy: 165, 367
+  size: 102, 141
+  orig: 102, 141
+  offset: 0, 0
+  index: -1
+sacred_f/f_r_hand
+  rotate: true
+  xy: 351, 729
+  size: 79, 137
+  orig: 79, 137
+  offset: 0, 0
+  index: -1
+sacred_f/f_r_thigh
+  rotate: true
+  xy: 663, 273
+  size: 94, 186
+  orig: 94, 186
+  offset: 0, 0
+  index: -1
+sacred_f/f_r_upperarm
+  rotate: false
+  xy: 914, 307
+  size: 103, 153
+  orig: 103, 153
+  offset: 0, 0
+  index: -1
+sacred_sb/sb_hair_ribbon
+  rotate: false
+  xy: 2, 425
+  size: 161, 93
+  orig: 161, 93
+  offset: 0, 0
+  index: -1
+sacred_sb/sb_l_forearm
+  rotate: true
+  xy: 634, 768
+  size: 78, 135
+  orig: 78, 135
+  offset: 0, 0
+  index: -1
+sacred_sb/sb_l_hand
+  rotate: true
+  xy: 574, 865
+  size: 78, 124
+  orig: 80, 125
+  offset: 1, 0
+  index: -1
+sacred_sb/sb_l_leg
+  rotate: true
+  xy: 512, 2
+  size: 106, 245
+  orig: 106, 245
+  offset: 0, 0
+  index: -1
+sacred_sb/sb_l_upperarm
+  rotate: true
+  xy: 336, 90
+  size: 110, 174
+  orig: 110, 177
+  offset: 0, 0
+  index: -1
+sacred_sb/sb_r_forearm
+  rotate: true
+  xy: 496, 788
+  size: 75, 136
+  orig: 75, 136
+  offset: 0, 0
+  index: -1
+sacred_sb/sb_r_hand
+  rotate: true
+  xy: 863, 891
+  size: 65, 128
+  orig: 65, 128
+  offset: 0, 0
+  index: -1
+sacred_sb/sb_r_upperarm
+  rotate: true
+  xy: 527, 175
+  size: 96, 186
+  orig: 96, 186
+  offset: 0, 0
+  index: -1
+sacred_sf/sf_body_collar_l
+  rotate: false
+  xy: 161, 701
+  size: 157, 82
+  orig: 157, 82
+  offset: 0, 0
+  index: -1
+sacred_sf/sf_body_collar_r
+  rotate: false
+  xy: 2, 705
+  size: 157, 78
+  orig: 157, 78
+  offset: 0, 0
+  index: -1
+sacred_sf/sf_body_up
+  rotate: false
+  xy: 440, 300
+  size: 221, 92
+  orig: 221, 92
+  offset: 0, 0
+  index: -1
+sacred_sf/sf_eye_close
+  rotate: false
+  xy: 346, 945
+  size: 353, 39
+  orig: 353, 39
+  offset: 0, 0
+  index: -1
+sacred_sf/sf_eyebrow_close
+  rotate: false
+  xy: 2, 955
+  size: 342, 34
+  orig: 342, 34
+  offset: 0, 0
+  index: -1
+sacred_sf/sf_eyebrow_normal
+  rotate: false
+  xy: 2, 955
+  size: 342, 34
+  orig: 342, 34
+  offset: 0, 0
+  index: -1
+sacred_sf/sf_eyebrow_fight
+  rotate: false
+  xy: 2, 785
+  size: 347, 65
+  orig: 347, 65
+  offset: 0, 0
+  index: -1
+sacred_sf/sf_face_l_ear
+  rotate: false
+  xy: 715, 110
+  size: 119, 161
+  orig: 119, 161
+  offset: 0, 0
+  index: -1
+sacred_sf/sf_face_r_ear
+  rotate: true
+  xy: 889, 958
+  size: 61, 106
+  orig: 61, 106
+  offset: 0, 0
+  index: -1
+sacred_sf/sf_hair_10
+  rotate: false
+  xy: 188, 510
+  size: 108, 99
+  orig: 108, 99
+  offset: 0, 0
+  index: -1
+sacred_sf/sf_l_calf
+  rotate: true
+  xy: 2, 37
+  size: 102, 247
+  orig: 102, 247
+  offset: 0, 0
+  index: -1
+sacred_sf/sf_l_forearm
+  rotate: true
+  xy: 557, 485
+  size: 100, 119
+  orig: 100, 119
+  offset: 0, 0
+  index: -1
+sacred_sf/sf_l_hand
+  rotate: true
+  xy: 678, 470
+  size: 92, 161
+  orig: 92, 161
+  offset: 0, 0
+  index: -1
+sacred_sf/sf_l_thigh
+  rotate: true
+  xy: 841, 462
+  size: 92, 159
+  orig: 92, 159
+  offset: 0, 0
+  index: -1
+sacred_sf/sf_l_uppearm
+  rotate: true
+  xy: 898, 556
+  size: 95, 96
+  orig: 95, 98
+  offset: 0, 2
+  index: -1
+sacred_sf/sf_mouth_fight
+  rotate: false
+  xy: 126, 1004
+  size: 38, 15
+  orig: 38, 15
+  offset: 0, 0
+  index: -1
+sacred_sf/sf_mouth_normal
+  rotate: false
+  xy: 46, 1007
+  size: 34, 12
+  orig: 34, 12
+  offset: 0, 0
+  index: -1
+sacred_sf/sf_r_calf
+  rotate: true
+  xy: 672, 369
+  size: 91, 240
+  orig: 91, 240
+  offset: 0, 0
+  index: -1
+sacred_sf/sf_r_forearm
+  rotate: true
+  xy: 701, 920
+  size: 64, 160
+  orig: 64, 160
+  offset: 0, 0
+  index: -1
+sacred_sf/sf_r_hand
+  rotate: true
+  xy: 355, 810
+  size: 71, 139
+  orig: 71, 139
+  offset: 0, 0
+  index: -1
+sacred_sf/sf_r_thigh
+  rotate: true
+  xy: 320, 641
+  size: 86, 153
+  orig: 86, 153
+  offset: 0, 0
+  index: -1
+sacred_sf/sf_r_uppearm
+  rotate: true
+  xy: 490, 704
+  size: 82, 120
+  orig: 82, 120
+  offset: 0, 0
+  index: -1
+
+sacred_spine2.png
+size: 1022,942
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arrow
+  rotate: false
+  xy: 923, 249
+  size: 97, 691
+  orig: 97, 691
+  offset: 0, 0
+  index: -1
+sacred_f/f_hair_10
+  rotate: false
+  xy: 809, 504
+  size: 101, 436
+  orig: 113, 436
+  offset: 12, 0
+  index: -1
+sacred_f/f_hair_5
+  rotate: false
+  xy: 594, 215
+  size: 190, 362
+  orig: 190, 362
+  offset: 0, 0
+  index: -1
+sacred_sb/sb_hair_3
+  rotate: true
+  xy: 2, 2
+  size: 208, 525
+  orig: 208, 559
+  offset: 0, 11
+  index: -1
+sacred_sf/sf_body
+  rotate: true
+  xy: 786, 295
+  size: 207, 131
+  orig: 207, 131
+  offset: 0, 0
+  index: -1
+sacred_sf/sf_hair_4
+  rotate: true
+  xy: 529, 3
+  size: 207, 392
+  orig: 207, 392
+  offset: 0, 0
+  index: -1
+sacred_sf/sf_hair_8
+  rotate: false
+  xy: 594, 579
+  size: 213, 361
+  orig: 213, 361
+  offset: 0, 0
+  index: -1
+sacred_sf/sf_hair_9
+  rotate: false
+  xy: 2, 212
+  size: 590, 728
+  orig: 591, 728
+  offset: 1, 0
+  index: -1
+
+sacred_spine3.png
+size: 1020,1007
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sacred_b/b_body
+  rotate: false
+  xy: 2, 210
+  size: 269, 160
+  orig: 269, 193
+  offset: 0, 33
+  index: -1
+sacred_b/b_hair_tail
+  rotate: true
+  xy: 691, 570
+  size: 140, 327
+  orig: 140, 327
+  offset: 0, 0
+  index: -1
+sacred_b/b_hair_tail_shadow
+  rotate: true
+  xy: 664, 419
+  size: 149, 302
+  orig: 149, 303
+  offset: 0, 0
+  index: -1
+sacred_f/f_badge
+  rotate: true
+  xy: 273, 184
+  size: 161, 228
+  orig: 161, 228
+  offset: 0, 0
+  index: -1
+sacred_f/f_eye_fight
+  rotate: false
+  xy: 304, 791
+  size: 409, 107
+  orig: 409, 107
+  offset: 0, 0
+  index: -1
+sacred_f/f_eye_normal
+  rotate: false
+  xy: 2, 523
+  size: 414, 130
+  orig: 414, 130
+  offset: 0, 0
+  index: -1
+sacred_f/f_hair_11
+  rotate: true
+  xy: 384, 900
+  size: 105, 417
+  orig: 105, 417
+  offset: 0, 0
+  index: -1
+sacred_f/f_hair_3
+  rotate: false
+  xy: 309, 347
+  size: 271, 155
+  orig: 271, 155
+  offset: 0, 0
+  index: -1
+sacred_f/f_hair_7
+  rotate: true
+  xy: 503, 111
+  size: 157, 389
+  orig: 157, 389
+  offset: 0, 0
+  index: -1
+sacred_f/f_skirt
+  rotate: false
+  xy: 803, 827
+  size: 198, 178
+  orig: 198, 178
+  offset: 0, 0
+  index: -1
+sacred_sb/sb_body_up
+  rotate: false
+  xy: 418, 504
+  size: 244, 149
+  orig: 244, 149
+  offset: 0, 0
+  index: -1
+sacred_sb/sb_hair_tail
+  rotate: true
+  xy: 582, 270
+  size: 147, 415
+  orig: 151, 415
+  offset: 0, 0
+  index: -1
+sacred_sb/sb_r_leg
+  rotate: true
+  xy: 715, 712
+  size: 113, 239
+  orig: 113, 239
+  offset: 0, 0
+  index: -1
+sacred_sf/sf_badge
+  rotate: true
+  xy: 2, 44
+  size: 164, 239
+  orig: 164, 239
+  offset: 0, 0
+  index: -1
+sacred_sf/sf_eye_fight
+  rotate: false
+  xy: 2, 912
+  size: 380, 93
+  orig: 380, 93
+  offset: 0, 0
+  index: -1
+sacred_sf/sf_eye_normal
+  rotate: false
+  xy: 2, 667
+  size: 392, 122
+  orig: 392, 122
+  offset: 0, 0
+  index: -1
+sacred_sf/sf_hair_11
+  rotate: true
+  xy: 396, 655
+  size: 134, 293
+  orig: 136, 293
+  offset: 2, 0
+  index: -1
+sacred_sf/sf_hair_5
+  rotate: true
+  xy: 2, 798
+  size: 112, 300
+  orig: 114, 321
+  offset: 0, 0
+  index: -1
+sacred_sf/sf_hair_7
+  rotate: true
+  xy: 2, 372
+  size: 149, 305
+  orig: 149, 305
+  offset: 0, 0
+  index: -1
+sacred_sf/sf_skirt
+  rotate: false
+  xy: 243, 2
+  size: 219, 180
+  orig: 219, 180
+  offset: 0, 0
+  index: -1
+
+sacred_spine4.png
+size: 1023,978
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sacred_b/b_body_cloth
+  rotate: true
+  xy: 376, 92
+  size: 192, 213
+  orig: 192, 218
+  offset: 0, 5
+  index: -1
+sacred_f/f_hair_8
+  rotate: true
+  xy: 2, 108
+  size: 176, 372
+  orig: 176, 372
+  offset: 0, 0
+  index: -1
+sacred_f/f_hair_9
+  rotate: true
+  xy: 595, 441
+  size: 535, 426
+  orig: 551, 426
+  offset: 0, 0
+  index: -1
+sacred_sb/sb_hair_2
+  rotate: false
+  xy: 2, 286
+  size: 591, 690
+  orig: 591, 694
+  offset: 0, 4
+  index: -1
+sacred_sf/sf_face
+  rotate: true
+  xy: 595, 2
+  size: 437, 426
+  orig: 437, 426
+  offset: 0, 0
+  index: -1
+
+sacred_spine5.png
+size: 960,779
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sacred_b/b_skirt
+  rotate: false
+  xy: 266, 417
+  size: 194, 190
+  orig: 194, 190
+  offset: 0, 0
+  index: -1
+sacred_f/f_body
+  rotate: false
+  xy: 2, 427
+  size: 262, 184
+  orig: 262, 184
+  offset: 0, 0
+  index: -1
+sacred_f/f_body_cloth
+  rotate: true
+  xy: 685, 392
+  size: 200, 246
+  orig: 200, 246
+  offset: 0, 0
+  index: -1
+sacred_f/f_hair_2
+  rotate: true
+  xy: 485, 2
+  size: 388, 393
+  orig: 388, 408
+  offset: 0, 0
+  index: -1
+sacred_sb/sb_body
+  rotate: false
+  xy: 379, 609
+  size: 260, 168
+  orig: 260, 168
+  offset: 0, 0
+  index: -1
+sacred_sb/sb_body_cloth
+  rotate: true
+  xy: 239, 167
+  size: 226, 244
+  orig: 226, 244
+  offset: 0, 0
+  index: -1
+sacred_sb/sb_hair_tail_shadow
+  rotate: true
+  xy: 2, 613
+  size: 164, 375
+  orig: 164, 375
+  offset: 0, 0
+  index: -1
+sacred_sb/sb_skirt
+  rotate: false
+  xy: 462, 395
+  size: 221, 197
+  orig: 222, 197
+  offset: 1, 0
+  index: -1
+sacred_sf/sf_body_cloth
+  rotate: true
+  xy: 2, 224
+  size: 201, 235
+  orig: 201, 235
+  offset: 0, 0
+  index: -1
+sacred_sf/sf_hair_2
+  rotate: false
+  xy: 641, 594
+  size: 317, 183
+  orig: 317, 183
+  offset: 0, 0
+  index: -1
+
+sacred_spine6.png
+size: 1021,836
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bow_l
+  rotate: false
+  xy: 529, 2
+  size: 470, 437
+  orig: 470, 437
+  offset: 0, 0
+  index: -1
+sacred_f/f_hair_1
+  rotate: true
+  xy: 2, 36
+  size: 403, 525
+  orig: 403, 525
+  offset: 0, 0
+  index: -1
+sacred_sf/sf_hair_1
+  rotate: true
+  xy: 519, 441
+  size: 393, 500
+  orig: 393, 500
+  offset: 0, 0
+  index: -1
+sacred_sf/sf_hair_6
+  rotate: false
+  xy: 2, 444
+  size: 515, 390
+  orig: 515, 440
+  offset: 0, 50
+  index: -1
+
+sacred_spine7.png
+size: 931,1022
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bow_r
+  rotate: true
+  xy: 470, 9
+  size: 441, 459
+  orig: 441, 459
+  offset: 0, 0
+  index: -1
+sacred_f/f_hair_6
+  rotate: false
+  xy: 2, 2
+  size: 466, 448
+  orig: 466, 448
+  offset: 0, 0
+  index: -1
+sacred_sb/sb_hair_1
+  rotate: false
+  xy: 2, 452
+  size: 689, 568
+  orig: 689, 568
+  offset: 0, 0
+  index: -1
+
+sacred_spine8.png
+size: 618,637
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Front_Bow_Line
+  rotate: false
+  xy: 2, 2
+  size: 614, 633
+  orig: 614, 633
+  offset: 0, 0
+  index: -1
+
+sacred_spine9.png
+size: 611,611
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sacred_b/b_hair_2
+  rotate: false
+  xy: 2, 2
+  size: 607, 607
+  orig: 607, 612
+  offset: 0, 5
+  index: -1
+
+sacred_spine10.png
+size: 1024,942
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sacred_f/f_face
+  rotate: false
+  xy: 473, 2
+  size: 451, 437
+  orig: 451, 437
+  offset: 0, 0
+  index: -1
+sacred_f/f_hair_13
+  rotate: true
+  xy: 473, 441
+  size: 499, 549
+  orig: 504, 549
+  offset: 5, 0
+  index: -1
+sacred_f/f_hair_4
+  rotate: false
+  xy: 2, 309
+  size: 469, 631
+  orig: 469, 631
+  offset: 0, 0
+  index: -1
+
+sacred_spine11.png
+size: 995,620
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sacred_b/b_hair_1
+  rotate: true
+  xy: 533, 2
+  size: 616, 460
+  orig: 616, 460
+  offset: 0, 0
+  index: -1
+sacred_sf/sf_hair_3
+  rotate: false
+  xy: 2, 71
+  size: 529, 547
+  orig: 529, 547
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+Healer_weapon.png
+size: 454,252
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Weapon_Head
+  rotate: true
+  xy: 145, 2
+  size: 186, 192
+  orig: 186, 192
+  offset: 0, 0
+  index: -1
+Weapon_Jewel
+  rotate: true
+  xy: 2, 96
+  size: 92, 141
+  orig: 92, 141
+  offset: 0, 0
+  index: -1
+Weapon_wand
+  rotate: true
+  xy: 2, 190
+  size: 60, 450
+  orig: 60, 450
+  offset: 0, 0
+  index: -1

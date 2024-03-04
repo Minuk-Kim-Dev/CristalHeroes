@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 894f9e95b63204a468b658b4cc7ac6a2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - paladinHeal: {fileID: 4037023457161362198, guid: cac3d543c3f3b0e4a90b8c7bb600f4c3, type: 3}
+  - attack_sword: {instanceID: 0}
+  - tank_unitmovement: {instanceID: 0}
+  - target: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

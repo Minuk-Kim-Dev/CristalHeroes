@@ -1,0 +1,13 @@
+
+eclipse_weapon.png
+size: 220,649
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eclipse_weapon
+  rotate: false
+  xy: 2, 2
+  size: 216, 645
+  orig: 216, 645
+  offset: 0, 0
+  index: -1

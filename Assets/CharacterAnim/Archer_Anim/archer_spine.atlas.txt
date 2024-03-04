@@ -1,0 +1,1061 @@
+
+archer_spine.png
+size: 2047,1951
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arrow
+  rotate: true
+  xy: 637, 1453
+  size: 97, 691
+  orig: 97, 691
+  offset: 0, 0
+  index: -1
+Back_Bow_Handle
+  rotate: false
+  xy: 1579, 1639
+  size: 103, 106
+  orig: 105, 107
+  offset: 0, 0
+  index: -1
+Back_Bow_L
+  rotate: false
+  xy: 2, 2
+  size: 470, 284
+  orig: 470, 284
+  offset: 0, 0
+  index: -1
+Back_Bow_R
+  rotate: true
+  xy: 1274, 42
+  size: 278, 470
+  orig: 278, 472
+  offset: 0, 0
+  index: -1
+Back_Bow_head
+  rotate: false
+  xy: 1810, 928
+  size: 163, 162
+  orig: 164, 163
+  offset: 0, 0
+  index: -1
+Front_Bow_Handle
+  rotate: false
+  xy: 891, 1850
+  size: 121, 63
+  orig: 121, 64
+  offset: 0, 1
+  index: -1
+Front_Bow_L
+  rotate: true
+  xy: 959, 155
+  size: 290, 313
+  orig: 290, 313
+  offset: 0, 0
+  index: -1
+Front_Bow_R
+  rotate: false
+  xy: 1511, 1146
+  size: 383, 124
+  orig: 383, 147
+  offset: 0, 1
+  index: -1
+Front_Bow_head
+  rotate: false
+  xy: 1538, 1413
+  size: 125, 114
+  orig: 125, 114
+  offset: 0, 0
+  index: -1
+archer_b/b_forebody
+  rotate: false
+  xy: 2, 561
+  size: 225, 197
+  orig: 225, 197
+  offset: 0, 0
+  index: -1
+archer_b/b_hair_ribbon
+  rotate: false
+  xy: 1133, 1753
+  size: 166, 88
+  orig: 166, 88
+  offset: 0, 0
+  index: -1
+archer_b/b_hair_tail
+  rotate: true
+  xy: 904, 1046
+  size: 140, 327
+  orig: 140, 327
+  offset: 0, 0
+  index: -1
+archer_b/b_hair_tail_shadow
+  rotate: true
+  xy: 1506, 995
+  size: 149, 302
+  orig: 149, 303
+  offset: 0, 0
+  index: -1
+archer_b/b_l_boots
+  rotate: true
+  xy: 1792, 1487
+  size: 104, 206
+  orig: 104, 206
+  offset: 0, 0
+  index: -1
+archer_b/b_l_forearm
+  rotate: true
+  xy: 1565, 1747
+  size: 90, 118
+  orig: 90, 118
+  offset: 0, 0
+  index: -1
+archer_f/f_r_forearm
+  rotate: true
+  xy: 1565, 1747
+  size: 90, 118
+  orig: 90, 118
+  offset: 0, 0
+  index: -1
+archer_b/b_l_hand
+  rotate: true
+  xy: 599, 1763
+  size: 87, 137
+  orig: 90, 137
+  offset: 0, 0
+  index: -1
+archer_b/b_l_pants
+  rotate: true
+  xy: 1794, 1625
+  size: 102, 108
+  orig: 102, 108
+  offset: 0, 0
+  index: -1
+archer_f/f_r_pants
+  rotate: true
+  xy: 1794, 1625
+  size: 102, 108
+  orig: 102, 108
+  offset: 0, 0
+  index: -1
+archer_b/b_l_thigh
+  rotate: true
+  xy: 738, 1762
+  size: 87, 129
+  orig: 87, 129
+  offset: 0, 0
+  index: -1
+archer_f/f_r_thigh
+  rotate: true
+  xy: 738, 1762
+  size: 87, 129
+  orig: 87, 129
+  offset: 0, 0
+  index: -1
+archer_b/b_l_upperarm
+  rotate: true
+  xy: 2, 1238
+  size: 132, 176
+  orig: 133, 177
+  offset: 0, 0
+  index: -1
+archer_b/b_pelvis
+  rotate: false
+  xy: 895, 1660
+  size: 189, 96
+  orig: 189, 96
+  offset: 0, 0
+  index: -1
+archer_f/f_pelvis
+  rotate: false
+  xy: 895, 1660
+  size: 189, 96
+  orig: 189, 96
+  offset: 0, 0
+  index: -1
+archer_b/b_r_boots
+  rotate: true
+  xy: 1330, 1432
+  size: 106, 206
+  orig: 106, 206
+  offset: 0, 0
+  index: -1
+archer_b/b_r_forearm
+  rotate: true
+  xy: 1324, 1552
+  size: 104, 114
+  orig: 104, 114
+  offset: 0, 0
+  index: -1
+archer_b/b_r_hand
+  rotate: true
+  xy: 1906, 1821
+  size: 83, 127
+  orig: 83, 127
+  offset: 0, 0
+  index: -1
+archer_f/f_l_hand
+  rotate: true
+  xy: 1906, 1821
+  size: 83, 127
+  orig: 83, 127
+  offset: 0, 0
+  index: -1
+archer_b/b_r_pants
+  rotate: true
+  xy: 1468, 1646
+  size: 99, 109
+  orig: 99, 109
+  offset: 0, 0
+  index: -1
+archer_f/f_l_pants
+  rotate: true
+  xy: 1468, 1646
+  size: 99, 109
+  orig: 99, 109
+  offset: 0, 0
+  index: -1
+archer_b/b_r_thigh
+  rotate: true
+  xy: 1685, 1732
+  size: 90, 132
+  orig: 90, 133
+  offset: 0, 1
+  index: -1
+archer_b/b_r_upperarm
+  rotate: true
+  xy: 1055, 1188
+  size: 136, 189
+  orig: 137, 189
+  offset: 0, 0
+  index: -1
+archer_b/b_upperbody
+  rotate: false
+  xy: 1780, 532
+  size: 234, 209
+  orig: 234, 210
+  offset: 0, 1
+  index: -1
+archer_f/f_eye_close
+  rotate: false
+  xy: 87, 1873
+  size: 351, 46
+  orig: 351, 46
+  offset: 0, 0
+  index: -1
+archer_f/f_eye_fight
+  rotate: false
+  xy: 1529, 1272
+  size: 409, 107
+  orig: 409, 107
+  offset: 0, 0
+  index: -1
+archer_f/f_eye_normal
+  rotate: false
+  xy: 2, 1100
+  size: 414, 130
+  orig: 414, 130
+  offset: 0, 0
+  index: -1
+archer_f/f_eyebrow_close
+  rotate: false
+  xy: 166, 1921
+  size: 356, 28
+  orig: 356, 28
+  offset: 0, 0
+  index: -1
+archer_f/f_eyebrow_fight
+  rotate: false
+  xy: 1670, 1906
+  size: 359, 43
+  orig: 359, 43
+  offset: 0, 0
+  index: -1
+archer_f/f_eyebrow_normal
+  rotate: false
+  xy: 524, 1916
+  size: 363, 33
+  orig: 363, 33
+  offset: 0, 0
+  index: -1
+archer_f/f_forebody
+  rotate: false
+  xy: 1553, 544
+  size: 225, 197
+  orig: 225, 197
+  offset: 0, 0
+  index: -1
+archer_f/f_hair_10
+  rotate: true
+  xy: 886, 1555
+  size: 101, 436
+  orig: 113, 436
+  offset: 12, 0
+  index: -1
+archer_f/f_hair_11
+  rotate: true
+  xy: 373, 1346
+  size: 105, 417
+  orig: 105, 417
+  offset: 0, 0
+  index: -1
+archer_f/f_hair_12
+  rotate: true
+  xy: 2, 1696
+  size: 89, 229
+  orig: 89, 230
+  offset: 0, 1
+  index: -1
+archer_f/f_hair_14
+  rotate: false
+  xy: 1896, 1092
+  size: 146, 178
+  orig: 146, 178
+  offset: 0, 0
+  index: -1
+archer_f/f_hair_15
+  rotate: true
+  xy: 458, 1778
+  size: 86, 139
+  orig: 86, 139
+  offset: 0, 0
+  index: -1
+archer_f/f_hair_3
+  rotate: false
+  xy: 1233, 1014
+  size: 271, 155
+  orig: 271, 155
+  offset: 0, 0
+  index: -1
+archer_f/f_hair_5
+  rotate: true
+  xy: 971, 659
+  size: 190, 362
+  orig: 190, 362
+  offset: 0, 0
+  index: -1
+archer_f/f_hair_7
+  rotate: true
+  xy: 309, 926
+  size: 157, 389
+  orig: 157, 389
+  offset: 0, 0
+  index: -1
+archer_f/f_hair_8
+  rotate: true
+  xy: 597, 719
+  size: 176, 372
+  orig: 176, 372
+  offset: 0, 0
+  index: -1
+archer_f/f_l_boots
+  rotate: true
+  xy: 2, 1372
+  size: 106, 206
+  orig: 106, 206
+  offset: 0, 0
+  index: -1
+archer_f/f_l_forearm
+  rotate: true
+  xy: 1904, 1593
+  size: 103, 114
+  orig: 104, 114
+  offset: 0, 0
+  index: -1
+archer_f/f_l_robe
+  rotate: true
+  xy: 365, 288
+  size: 220, 302
+  orig: 220, 302
+  offset: 0, 0
+  index: -1
+archer_f/f_l_thigh
+  rotate: true
+  xy: 1819, 1729
+  size: 90, 133
+  orig: 90, 133
+  offset: 0, 0
+  index: -1
+archer_f/f_l_upperarm
+  rotate: true
+  xy: 713, 1071
+  size: 137, 189
+  orig: 137, 189
+  offset: 0, 0
+  index: -1
+archer_f/f_mouth_fight
+  rotate: false
+  xy: 82, 1935
+  size: 42, 14
+  orig: 42, 14
+  offset: 0, 0
+  index: -1
+archer_f/f_mouth_normal
+  rotate: false
+  xy: 2, 1940
+  size: 42, 9
+  orig: 42, 9
+  offset: 0, 0
+  index: -1
+archer_f/f_r_boots
+  rotate: true
+  xy: 2, 1480
+  size: 104, 206
+  orig: 104, 206
+  offset: 0, 0
+  index: -1
+archer_f/f_r_hand
+  rotate: true
+  xy: 1767, 1824
+  size: 80, 137
+  orig: 80, 137
+  offset: 0, 0
+  index: -1
+archer_f/f_r_robe
+  rotate: false
+  xy: 1291, 345
+  size: 214, 286
+  orig: 214, 286
+  offset: 0, 0
+  index: -1
+archer_f/f_r_upperarm
+  rotate: true
+  xy: 876, 1210
+  size: 133, 177
+  orig: 133, 177
+  offset: 0, 0
+  index: -1
+archer_f/f_robe_badge
+  rotate: false
+  xy: 2, 1886
+  size: 83, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+archer_f/f_robe_hood
+  rotate: false
+  xy: 792, 1345
+  size: 311, 106
+  orig: 317, 111
+  offset: 0, 5
+  index: -1
+archer_f/f_robe_shadow
+  rotate: false
+  xy: 1246, 1171
+  size: 263, 132
+  orig: 263, 132
+  offset: 0, 0
+  index: -1
+archer_f/f_upperbody
+  rotate: false
+  xy: 1055, 447
+  size: 234, 210
+  orig: 234, 210
+  offset: 0, 0
+  index: -1
+archer_sb/sb_forebody
+  rotate: false
+  xy: 379, 729
+  size: 216, 195
+  orig: 216, 195
+  offset: 0, 0
+  index: -1
+archer_sb/sb_hair_3
+  rotate: true
+  xy: 1507, 322
+  size: 208, 525
+  orig: 208, 559
+  offset: 0, 11
+  index: -1
+archer_sb/sb_hair_ribbon
+  rotate: false
+  xy: 732, 1665
+  size: 161, 93
+  orig: 161, 93
+  offset: 0, 0
+  index: -1
+archer_sb/sb_hair_tail
+  rotate: true
+  xy: 700, 897
+  size: 147, 415
+  orig: 151, 415
+  offset: 0, 0
+  index: -1
+archer_sb/sb_hair_tail_shadow
+  rotate: true
+  xy: 2, 760
+  size: 164, 375
+  orig: 164, 375
+  offset: 0, 0
+  index: -1
+archer_sb/sb_l_boots
+  rotate: true
+  xy: 2, 1591
+  size: 103, 196
+  orig: 106, 197
+  offset: 3, 1
+  index: -1
+archer_sb/sb_l_forearm
+  rotate: true
+  xy: 1014, 1848
+  size: 65, 118
+  orig: 65, 119
+  offset: 0, 0
+  index: -1
+archer_sb/sb_l_hand
+  rotate: true
+  xy: 2, 1787
+  size: 84, 117
+  orig: 84, 119
+  offset: 0, 1
+  index: -1
+archer_sb/sb_l_hand_back
+  rotate: false
+  xy: 719, 1852
+  size: 84, 62
+  orig: 84, 62
+  offset: 0, 0
+  index: -1
+archer_sb/sb_l_pants
+  rotate: false
+  xy: 200, 1586
+  size: 113, 103
+  orig: 118, 104
+  offset: 0, 1
+  index: -1
+archer_sb/sb_l_thigh
+  rotate: true
+  xy: 869, 1760
+  size: 88, 124
+  orig: 88, 124
+  offset: 0, 0
+  index: -1
+archer_sb/sb_l_upperarm
+  rotate: true
+  xy: 315, 1580
+  size: 103, 184
+  orig: 103, 184
+  offset: 0, 0
+  index: -1
+archer_sb/sb_pelvis
+  rotate: false
+  xy: 233, 1691
+  size: 186, 91
+  orig: 186, 91
+  offset: 0, 0
+  index: -1
+archer_sb/sb_r_boots
+  rotate: true
+  xy: 210, 1473
+  size: 105, 212
+  orig: 105, 212
+  offset: 0, 0
+  index: -1
+archer_sb/sb_r_forearm
+  rotate: false
+  xy: 1954, 1698
+  size: 91, 121
+  orig: 91, 121
+  offset: 0, 0
+  index: -1
+archer_sb/sb_r_hand
+  rotate: true
+  xy: 995, 1758
+  size: 88, 136
+  orig: 88, 136
+  offset: 0, 0
+  index: -1
+archer_sb/sb_r_hand_back
+  rotate: false
+  xy: 1134, 1844
+  size: 80, 69
+  orig: 80, 69
+  offset: 0, 0
+  index: -1
+archer_sb/sb_r_pants
+  rotate: false
+  xy: 1674, 1520
+  size: 116, 109
+  orig: 116, 114
+  offset: 0, 0
+  index: -1
+archer_sb/sb_r_thigh
+  rotate: true
+  xy: 121, 1787
+  size: 84, 106
+  orig: 84, 107
+  offset: 0, 1
+  index: -1
+archer_sb/sb_r_upperam
+  rotate: true
+  xy: 1105, 1326
+  size: 125, 210
+  orig: 125, 210
+  offset: 0, 0
+  index: -1
+archer_sb/sb_upperbody
+  rotate: false
+  xy: 229, 518
+  size: 214, 209
+  orig: 214, 209
+  offset: 0, 0
+  index: -1
+archer_sf/sf_eye_close
+  rotate: false
+  xy: 1233, 1910
+  size: 353, 39
+  orig: 353, 39
+  offset: 0, 0
+  index: -1
+archer_sf/sf_eye_fight
+  rotate: false
+  xy: 1086, 1658
+  size: 380, 93
+  orig: 380, 93
+  offset: 0, 0
+  index: -1
+archer_sf/sf_eye_normal
+  rotate: false
+  xy: 482, 1221
+  size: 392, 122
+  orig: 392, 122
+  offset: 0, 0
+  index: -1
+archer_sf/sf_eyebrow_close
+  rotate: false
+  xy: 889, 1915
+  size: 342, 34
+  orig: 342, 34
+  offset: 0, 0
+  index: -1
+archer_sf/sf_eyebrow_normal
+  rotate: false
+  xy: 889, 1915
+  size: 342, 34
+  orig: 342, 34
+  offset: 0, 0
+  index: -1
+archer_sf/sf_eyebrow_fight
+  rotate: false
+  xy: 1216, 1843
+  size: 347, 65
+  orig: 347, 65
+  offset: 0, 0
+  index: -1
+archer_sf/sf_face_l_ear
+  rotate: true
+  xy: 210, 1352
+  size: 119, 161
+  orig: 119, 161
+  offset: 0, 0
+  index: -1
+archer_sf/sf_face_r_ear
+  rotate: true
+  xy: 611, 1853
+  size: 61, 106
+  orig: 61, 106
+  offset: 0, 0
+  index: -1
+archer_sf/sf_forebody
+  rotate: false
+  xy: 1335, 633
+  size: 216, 195
+  orig: 216, 195
+  offset: 0, 0
+  index: -1
+archer_sf/sf_hair_10
+  rotate: false
+  xy: 1684, 1631
+  size: 108, 99
+  orig: 108, 99
+  offset: 0, 0
+  index: -1
+archer_sf/sf_hair_11
+  rotate: true
+  xy: 418, 1085
+  size: 134, 293
+  orig: 136, 293
+  offset: 2, 0
+  index: -1
+archer_sf/sf_hair_2
+  rotate: false
+  xy: 1680, 743
+  size: 317, 183
+  orig: 317, 183
+  offset: 0, 0
+  index: -1
+archer_sf/sf_hair_4
+  rotate: true
+  xy: 445, 510
+  size: 207, 392
+  orig: 207, 392
+  offset: 0, 0
+  index: -1
+archer_sf/sf_hair_5
+  rotate: true
+  xy: 180, 1232
+  size: 112, 300
+  orig: 114, 321
+  offset: 0, 0
+  index: -1
+archer_sf/sf_hair_7
+  rotate: true
+  xy: 2, 949
+  size: 149, 305
+  orig: 149, 305
+  offset: 0, 0
+  index: -1
+archer_sf/sf_hair_8
+  rotate: true
+  xy: 2, 303
+  size: 213, 361
+  orig: 213, 361
+  offset: 0, 0
+  index: -1
+archer_sf/sf_l_boots
+  rotate: true
+  xy: 424, 1458
+  size: 105, 211
+  orig: 105, 212
+  offset: 0, 1
+  index: -1
+archer_sf/sf_l_boots_back
+  rotate: false
+  xy: 440, 1870
+  size: 81, 49
+  orig: 81, 49
+  offset: 0, 0
+  index: -1
+archer_sf/sf_l_forearm
+  rotate: true
+  xy: 421, 1685
+  size: 91, 121
+  orig: 91, 121
+  offset: 0, 0
+  index: -1
+archer_sf/sf_l_hand
+  rotate: true
+  xy: 1301, 1753
+  size: 88, 136
+  orig: 88, 136
+  offset: 0, 0
+  index: -1
+archer_sf/sf_l_hand_back
+  rotate: false
+  xy: 1565, 1839
+  size: 80, 69
+  orig: 80, 69
+  offset: 0, 0
+  index: -1
+archer_sf/sf_l_pants
+  rotate: false
+  xy: 1556, 1529
+  size: 116, 108
+  orig: 116, 114
+  offset: 0, 0
+  index: -1
+archer_sf/sf_l_robe
+  rotate: true
+  xy: 669, 197
+  size: 249, 288
+  orig: 249, 288
+  offset: 0, 0
+  index: -1
+archer_sf/sf_l_thigh
+  rotate: true
+  xy: 229, 1787
+  size: 84, 106
+  orig: 84, 107
+  offset: 0, 1
+  index: -1
+archer_sf/sf_l_upperarm
+  rotate: true
+  xy: 1317, 1305
+  size: 125, 210
+  orig: 125, 210
+  offset: 0, 0
+  index: -1
+archer_sf/sf_mouth_fight
+  rotate: false
+  xy: 126, 1934
+  size: 38, 15
+  orig: 38, 15
+  offset: 0, 0
+  index: -1
+archer_sf/sf_mouth_normal
+  rotate: false
+  xy: 46, 1937
+  size: 34, 12
+  orig: 34, 12
+  offset: 0, 0
+  index: -1
+archer_sf/sf_pelvis
+  rotate: false
+  xy: 544, 1670
+  size: 186, 91
+  orig: 186, 91
+  offset: 0, 0
+  index: -1
+archer_sf/sf_r_boots
+  rotate: true
+  xy: 501, 1565
+  size: 103, 197
+  orig: 106, 197
+  offset: 3, 0
+  index: -1
+archer_sf/sf_r_boots_back
+  rotate: false
+  xy: 1588, 1910
+  size: 80, 39
+  orig: 81, 40
+  offset: 0, 1
+  index: -1
+archer_sf/sf_r_forearm
+  rotate: true
+  xy: 1647, 1839
+  size: 65, 118
+  orig: 65, 119
+  offset: 0, 0
+  index: -1
+archer_sf/sf_r_hand
+  rotate: true
+  xy: 337, 1784
+  size: 84, 119
+  orig: 84, 119
+  offset: 0, 0
+  index: -1
+archer_sf/sf_r_hand_back
+  rotate: false
+  xy: 805, 1851
+  size: 84, 62
+  orig: 84, 62
+  offset: 0, 0
+  index: -1
+archer_sf/sf_r_pants
+  rotate: false
+  xy: 1440, 1540
+  size: 114, 104
+  orig: 119, 104
+  offset: 0, 0
+  index: -1
+archer_sf/sf_r_robe
+  rotate: true
+  xy: 1397, 830
+  size: 163, 281
+  orig: 163, 281
+  offset: 0, 0
+  index: -1
+archer_sf/sf_r_thigh
+  rotate: true
+  xy: 1439, 1753
+  size: 88, 124
+  orig: 88, 124
+  offset: 0, 0
+  index: -1
+archer_sf/sf_r_upperarm
+  rotate: true
+  xy: 700, 1560
+  size: 103, 184
+  orig: 103, 184
+  offset: 0, 0
+  index: -1
+archer_sf/sf_robe_badge
+  rotate: false
+  xy: 523, 1866
+  size: 86, 48
+  orig: 86, 48
+  offset: 0, 0
+  index: -1
+archer_sf/sf_robe_hood
+  rotate: false
+  xy: 1665, 1381
+  size: 291, 104
+  orig: 291, 113
+  offset: 0, 0
+  index: -1
+archer_sf/sf_robe_shadow
+  rotate: false
+  xy: 1117, 851
+  size: 278, 161
+  orig: 278, 161
+  offset: 0, 0
+  index: -1
+archer_sf/sf_uppebody
+  rotate: false
+  xy: 839, 448
+  size: 214, 209
+  orig: 214, 209
+  offset: 0, 0
+  index: -1
+
+archer_spine2.png
+size: 1907,1834
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Back_Bow_Line
+  rotate: true
+  xy: 2, 421
+  size: 681, 692
+  orig: 681, 692
+  offset: 0, 0
+  index: -1
+Front_Bow_Line
+  rotate: false
+  xy: 2, 78
+  size: 654, 341
+  orig: 656, 341
+  offset: 0, 0
+  index: -1
+archer_b/b_hair_1
+  rotate: false
+  xy: 1289, 802
+  size: 616, 460
+  orig: 616, 460
+  offset: 0, 0
+  index: -1
+archer_b/b_hair_2
+  rotate: false
+  xy: 594, 1225
+  size: 607, 607
+  orig: 607, 612
+  offset: 0, 5
+  index: -1
+archer_f/f_hair_4
+  rotate: true
+  xy: 1245, 62
+  size: 469, 631
+  orig: 469, 631
+  offset: 0, 0
+  index: -1
+archer_sb/sb_hair_1
+  rotate: false
+  xy: 1203, 1264
+  size: 689, 568
+  orig: 689, 568
+  offset: 0, 0
+  index: -1
+archer_sb/sb_hair_2
+  rotate: false
+  xy: 696, 533
+  size: 591, 690
+  orig: 591, 694
+  offset: 0, 4
+  index: -1
+archer_sf/sf_hair_3
+  rotate: true
+  xy: 696, 2
+  size: 529, 547
+  orig: 529, 547
+  offset: 0, 0
+  index: -1
+archer_sf/sf_hair_9
+  rotate: false
+  xy: 2, 1104
+  size: 590, 728
+  orig: 591, 728
+  offset: 1, 0
+  index: -1
+
+archer_spine3.png
+size: 2010,1548
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+archer_b/b_face
+  rotate: true
+  xy: 2, 7
+  size: 451, 437
+  orig: 451, 437
+  offset: 0, 0
+  index: -1
+archer_b/b_robe_back
+  rotate: true
+  xy: 1230, 664
+  size: 429, 373
+  orig: 429, 373
+  offset: 0, 0
+  index: -1
+archer_f/f_face
+  rotate: true
+  xy: 895, 1095
+  size: 451, 437
+  orig: 451, 437
+  offset: 0, 0
+  index: -1
+archer_f/f_hair_1
+  rotate: false
+  xy: 430, 470
+  size: 403, 525
+  orig: 403, 525
+  offset: 0, 0
+  index: -1
+archer_f/f_hair_13
+  rotate: false
+  xy: 2, 997
+  size: 499, 549
+  orig: 504, 549
+  offset: 5, 0
+  index: -1
+archer_f/f_hair_2
+  rotate: true
+  xy: 1605, 387
+  size: 388, 393
+  orig: 388, 408
+  offset: 0, 0
+  index: -1
+archer_f/f_hair_6
+  rotate: true
+  xy: 441, 2
+  size: 466, 448
+  orig: 466, 448
+  offset: 0, 0
+  index: -1
+archer_f/f_hair_9
+  rotate: true
+  xy: 2, 460
+  size: 535, 426
+  orig: 551, 426
+  offset: 0, 0
+  index: -1
+archer_f/f_robe_back
+  rotate: false
+  xy: 1319, 12
+  size: 429, 373
+  orig: 429, 373
+  offset: 0, 0
+  index: -1
+archer_sb/sb_robe_back
+  rotate: false
+  xy: 1605, 777
+  size: 403, 375
+  orig: 403, 406
+  offset: 0, 6
+  index: -1
+archer_sf/sf_face
+  rotate: true
+  xy: 891, 90
+  size: 437, 426
+  orig: 437, 426
+  offset: 0, 0
+  index: -1
+archer_sf/sf_hair_1
+  rotate: false
+  xy: 835, 529
+  size: 393, 500
+  orig: 393, 500
+  offset: 0, 0
+  index: -1
+archer_sf/sf_hair_6
+  rotate: true
+  xy: 503, 1031
+  size: 515, 390
+  orig: 515, 440
+  offset: 0, 50
+  index: -1
+archer_sf/sf_robe_back
+  rotate: false
+  xy: 1605, 1154
+  size: 403, 392
+  orig: 403, 406
+  offset: 0, 0
+  index: -1

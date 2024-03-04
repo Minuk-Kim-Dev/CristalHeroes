@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - UnitSelection
+  - target
+  - dps
+  - tank
+  - heal
+  - enemy
+  - Jewerly
+  - tanktank
+  - tankdps
+  - tankheal
+  - dpstank
+  - dpsdps
+  - dpsheal
+  - healtank
+  - healdps
+  - healheal
+  - knightJewel
+  - archerJewel
+  - priestJewel
+  - wall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - ReadyArea
+  - Water
+  - UI
+  - Ground
+  - Clickable
+  - Wall
+  - Enemy
+  - Unit
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UI
+    uniqueID: 3443729149
+    locked: 0

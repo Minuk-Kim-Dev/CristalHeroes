@@ -1,0 +1,796 @@
+
+eclipse_spine.png
+size: 1022,965
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eclipse_b/b_hair_antenna_eclipse
+  rotate: true
+  xy: 805, 878
+  size: 53, 90
+  orig: 53, 90
+  offset: 0, 0
+  index: -1
+eclipse_b/b_l_calf_eclipse
+  rotate: true
+  xy: 555, 647
+  size: 88, 144
+  orig: 88, 144
+  offset: 0, 0
+  index: -1
+eclipse_b/b_l_forearm_eclipse
+  rotate: true
+  xy: 520, 46
+  size: 142, 168
+  orig: 142, 176
+  offset: 0, 8
+  index: -1
+eclipse_b/b_l_hair_tail_eclipse
+  rotate: true
+  xy: 165, 92
+  size: 122, 177
+  orig: 122, 177
+  offset: 0, 0
+  index: -1
+eclipse_b/b_l_ribbon_eclipse
+  rotate: false
+  xy: 131, 778
+  size: 84, 75
+  orig: 84, 75
+  offset: 0, 0
+  index: -1
+eclipse_b/b_l_thigh_eclipse
+  rotate: true
+  xy: 217, 765
+  size: 76, 127
+  orig: 76, 127
+  offset: 0, 0
+  index: -1
+eclipse_f/f_r_thigh_eclipse
+  rotate: true
+  xy: 217, 765
+  size: 76, 127
+  orig: 76, 127
+  offset: 0, 0
+  index: -1
+eclipse_b/b_l_upperarm_eclipse
+  rotate: true
+  xy: 184, 580
+  size: 93, 123
+  orig: 99, 123
+  offset: 0, 0
+  index: -1
+eclipse_b/b_r_calf_eclipse
+  rotate: true
+  xy: 265, 675
+  size: 87, 143
+  orig: 87, 143
+  offset: 0, 0
+  index: -1
+eclipse_b/b_r_forearm_eclipse
+  rotate: true
+  xy: 2, 109
+  size: 134, 161
+  orig: 134, 161
+  offset: 0, 0
+  index: -1
+eclipse_b/b_r_hair_tail_eclipse
+  rotate: true
+  xy: 344, 198
+  size: 119, 178
+  orig: 120, 178
+  offset: 0, 0
+  index: -1
+eclipse_b/b_r_ribbon_eclipse
+  rotate: false
+  xy: 875, 799
+  size: 85, 74
+  orig: 85, 74
+  offset: 0, 0
+  index: -1
+eclipse_b/b_r_thigh_eclipse
+  rotate: true
+  xy: 2, 779
+  size: 74, 127
+  orig: 74, 127
+  offset: 0, 0
+  index: -1
+eclipse_f/f_l_thigh_eclipse
+  rotate: true
+  xy: 2, 779
+  size: 74, 127
+  orig: 74, 127
+  offset: 0, 0
+  index: -1
+eclipse_b/b_r_upperarm_eclipse
+  rotate: true
+  xy: 2, 483
+  size: 98, 128
+  orig: 99, 128
+  offset: 0, 0
+  index: -1
+eclipse_f/f_eyebrow
+  rotate: false
+  xy: 210, 907
+  size: 303, 29
+  orig: 303, 29
+  offset: 0, 0
+  index: -1
+eclipse_f/f_eyebrow_close
+  rotate: false
+  xy: 499, 938
+  size: 311, 25
+  orig: 311, 25
+  offset: 0, 0
+  index: -1
+eclipse_f/f_eyebrow_fight
+  rotate: false
+  xy: 515, 897
+  size: 288, 39
+  orig: 288, 39
+  offset: 0, 0
+  index: -1
+eclipse_f/f_hair_antenna_eclipse
+  rotate: true
+  xy: 897, 875
+  size: 53, 90
+  orig: 53, 90
+  offset: 0, 0
+  index: -1
+eclipse_f/f_l_calf_eclipse
+  rotate: true
+  xy: 410, 654
+  size: 87, 143
+  orig: 87, 143
+  offset: 0, 0
+  index: -1
+eclipse_f/f_l_eye
+  rotate: false
+  xy: 276, 336
+  size: 146, 115
+  orig: 146, 115
+  offset: 0, 0
+  index: -1
+eclipse_f/f_l_eye_close
+  rotate: false
+  xy: 2, 915
+  size: 102, 34
+  orig: 102, 34
+  offset: 0, 0
+  index: -1
+eclipse_f/f_l_eye_fight
+  rotate: false
+  xy: 630, 737
+  size: 130, 83
+  orig: 130, 83
+  offset: 0, 0
+  index: -1
+eclipse_f/f_l_forearm_eclipse
+  rotate: false
+  xy: 888, 146
+  size: 132, 155
+  orig: 132, 155
+  offset: 0, 0
+  index: -1
+eclipse_f/f_l_hair_tail_eclipse
+  rotate: true
+  xy: 524, 190
+  size: 120, 178
+  orig: 120, 178
+  offset: 0, 0
+  index: -1
+eclipse_f/f_l_ribbon_eclipse
+  rotate: false
+  xy: 680, 822
+  size: 95, 73
+  orig: 95, 73
+  offset: 0, 0
+  index: -1
+eclipse_f/f_l_upperarm_eclipse
+  rotate: true
+  xy: 428, 444
+  size: 104, 137
+  orig: 104, 137
+  offset: 0, 0
+  index: -1
+eclipse_f/f_mouth
+  rotate: false
+  xy: 159, 947
+  size: 50, 16
+  orig: 50, 16
+  offset: 0, 0
+  index: -1
+eclipse_f/f_mouth_fight
+  rotate: false
+  xy: 109, 950
+  size: 48, 13
+  orig: 48, 13
+  offset: 0, 0
+  index: -1
+eclipse_f/f_r_calf_eclipse
+  rotate: true
+  xy: 701, 624
+  size: 88, 144
+  orig: 88, 144
+  offset: 0, 0
+  index: -1
+eclipse_f/f_r_eye
+  rotate: false
+  xy: 767, 303
+  size: 146, 115
+  orig: 146, 115
+  offset: 0, 0
+  index: -1
+eclipse_f/f_r_eye_close
+  rotate: false
+  xy: 106, 911
+  size: 102, 34
+  orig: 102, 34
+  offset: 0, 0
+  index: -1
+eclipse_f/f_r_eye_fight
+  rotate: false
+  xy: 762, 714
+  size: 130, 83
+  orig: 130, 83
+  offset: 0, 0
+  index: -1
+eclipse_f/f_r_forearm_eclipse
+  rotate: true
+  xy: 690, 37
+  size: 142, 154
+  orig: 142, 154
+  offset: 0, 0
+  index: -1
+eclipse_f/f_r_hair_tail_eclipse
+  rotate: true
+  xy: 704, 181
+  size: 120, 182
+  orig: 120, 182
+  offset: 0, 0
+  index: -1
+eclipse_f/f_r_ribbon_eclipse
+  rotate: false
+  xy: 777, 803
+  size: 96, 73
+  orig: 96, 73
+  offset: 0, 0
+  index: -1
+eclipse_f/f_r_upperarm_eclipse
+  rotate: true
+  xy: 284, 453
+  size: 103, 142
+  orig: 109, 142
+  offset: 0, 0
+  index: -1
+eclipse_sb/sb_hair_antenna_eclipse
+  rotate: true
+  xy: 346, 764
+  size: 77, 94
+  orig: 77, 94
+  offset: 0, 0
+  index: -1
+eclipse_sf/sf_hair_antenna_eclipse
+  rotate: true
+  xy: 346, 764
+  size: 77, 94
+  orig: 77, 94
+  offset: 0, 0
+  index: -1
+eclipse_sb/sb_l_calf_eclipse
+  rotate: true
+  xy: 133, 363
+  size: 113, 141
+  orig: 113, 141
+  offset: 0, 0
+  index: -1
+eclipse_sb/sb_l_forearm_eclipse
+  rotate: true
+  xy: 168, 216
+  size: 118, 174
+  orig: 118, 174
+  offset: 0, 0
+  index: -1
+eclipse_sb/sb_l_hair_tail_eclipse
+  rotate: true
+  xy: 424, 319
+  size: 108, 158
+  orig: 121, 158
+  offset: 13, 0
+  index: -1
+eclipse_sb/sb_l_ribbon_eclipse
+  rotate: true
+  xy: 442, 764
+  size: 77, 80
+  orig: 80, 80
+  offset: 3, 0
+  index: -1
+eclipse_sb/sb_l_thigh_eclipse
+  rotate: true
+  xy: 584, 312
+  size: 111, 181
+  orig: 111, 181
+  offset: 0, 0
+  index: -1
+eclipse_sb/sb_l_upperarm_eclipse
+  rotate: true
+  xy: 2, 692
+  size: 85, 112
+  orig: 85, 112
+  offset: 0, 0
+  index: -1
+eclipse_sb/sb_r_calf_eclipse
+  rotate: true
+  xy: 116, 677
+  size: 86, 147
+  orig: 86, 147
+  offset: 0, 0
+  index: -1
+eclipse_sb/sb_r_ribbon_eclipse
+  rotate: false
+  xy: 567, 429
+  size: 114, 113
+  orig: 114, 113
+  offset: 0, 0
+  index: -1
+eclipse_sb/sb_r_thigh_eclipse
+  rotate: true
+  xy: 2, 583
+  size: 92, 180
+  orig: 92, 180
+  offset: 0, 0
+  index: -1
+eclipse_sb/sb_r_upperarm_eclipse
+  rotate: true
+  xy: 861, 420
+  size: 104, 128
+  orig: 104, 128
+  offset: 0, 0
+  index: -1
+eclipse_sf/sf_eyebrow
+  rotate: false
+  xy: 2, 855
+  size: 288, 50
+  orig: 288, 50
+  offset: 0, 0
+  index: -1
+eclipse_sf/sf_eyebrow_close
+  rotate: false
+  xy: 211, 940
+  size: 286, 23
+  orig: 286, 23
+  offset: 0, 0
+  index: -1
+eclipse_sf/sf_eyebrow_fight
+  rotate: false
+  xy: 292, 843
+  size: 284, 52
+  orig: 284, 52
+  offset: 0, 0
+  index: -1
+eclipse_sf/sf_l_calf_eclipse
+  rotate: true
+  xy: 132, 478
+  size: 100, 150
+  orig: 100, 150
+  offset: 0, 0
+  index: -1
+eclipse_sf/sf_l_eye
+  rotate: false
+  xy: 2, 371
+  size: 129, 105
+  orig: 129, 105
+  offset: 0, 0
+  index: -1
+eclipse_sf/sf_l_eye_close
+  rotate: false
+  xy: 910, 930
+  size: 108, 33
+  orig: 108, 33
+  offset: 0, 0
+  index: -1
+eclipse_sf/sf_l_eye_fight
+  rotate: false
+  xy: 696, 526
+  size: 122, 96
+  orig: 122, 96
+  offset: 0, 0
+  index: -1
+eclipse_sf/sf_l_hair_tail_eclipse
+  rotate: true
+  xy: 2, 245
+  size: 116, 164
+  orig: 116, 164
+  offset: 0, 0
+  index: -1
+eclipse_sf/sf_l_ribbon_eclipse
+  rotate: false
+  xy: 524, 743
+  size: 104, 78
+  orig: 104, 78
+  offset: 0, 0
+  index: -1
+eclipse_sf/sf_l_thigh_eclipse
+  rotate: true
+  xy: 820, 526
+  size: 96, 181
+  orig: 96, 182
+  offset: 0, 1
+  index: -1
+eclipse_sf/sf_l_upperarm_eclipse
+  rotate: true
+  xy: 451, 550
+  size: 95, 127
+  orig: 95, 127
+  offset: 0, 0
+  index: -1
+eclipse_sf/sf_mouth
+  rotate: false
+  xy: 56, 951
+  size: 51, 12
+  orig: 51, 12
+  offset: 0, 0
+  index: -1
+eclipse_sf/sf_mouth_fight
+  rotate: false
+  xy: 2, 952
+  size: 52, 11
+  orig: 52, 11
+  offset: 0, 0
+  index: -1
+eclipse_sf/sf_r_calf_eclipse
+  rotate: true
+  xy: 309, 558
+  size: 94, 140
+  orig: 94, 140
+  offset: 0, 0
+  index: -1
+eclipse_sf/sf_r_eye
+  rotate: false
+  xy: 580, 544
+  size: 114, 101
+  orig: 114, 101
+  offset: 0, 0
+  index: -1
+eclipse_sf/sf_r_eye_close
+  rotate: false
+  xy: 812, 933
+  size: 96, 30
+  orig: 96, 30
+  offset: 0, 0
+  index: -1
+eclipse_sf/sf_r_eye_fight
+  rotate: false
+  xy: 847, 624
+  size: 118, 88
+  orig: 118, 88
+  offset: 0, 0
+  index: -1
+eclipse_sf/sf_r_forearm_eclipse
+  rotate: true
+  xy: 344, 66
+  size: 130, 174
+  orig: 130, 174
+  offset: 0, 0
+  index: -1
+eclipse_sf/sf_r_hair_tail_eclipse
+  rotate: false
+  xy: 846, 2
+  size: 157, 142
+  orig: 157, 142
+  offset: 0, 0
+  index: -1
+eclipse_sf/sf_r_ribbon_eclipse
+  rotate: false
+  xy: 578, 823
+  size: 100, 72
+  orig: 100, 72
+  offset: 0, 0
+  index: -1
+eclipse_sf/sf_r_thigh_eclipse
+  rotate: true
+  xy: 683, 425
+  size: 99, 176
+  orig: 101, 176
+  offset: 0, 0
+  index: -1
+eclipse_sf/sf_r_upperarm_eclipse
+  rotate: true
+  xy: 894, 714
+  size: 83, 117
+  orig: 83, 117
+  offset: 0, 0
+  index: -1
+
+eclipse_spine2.png
+size: 942,904
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eclipse_b/b_body_eclipse
+  rotate: false
+  xy: 193, 295
+  size: 199, 187
+  orig: 199, 187
+  offset: 0, 0
+  index: -1
+eclipse_f/f_body_eclipse
+  rotate: true
+  xy: 649, 225
+  size: 199, 214
+  orig: 199, 214
+  offset: 0, 0
+  index: -1
+eclipse_f/f_m_hair_eclipse
+  rotate: true
+  xy: 2, 86
+  size: 207, 350
+  orig: 209, 356
+  offset: 2, 6
+  index: -1
+eclipse_sb/sb_body_eclipse
+  rotate: false
+  xy: 724, 426
+  size: 192, 169
+  orig: 192, 169
+  offset: 0, 0
+  index: -1
+eclipse_sb/sb_m_hair_acc_eclipse
+  rotate: false
+  xy: 2, 790
+  size: 554, 112
+  orig: 560, 112
+  offset: 6, 0
+  index: -1
+eclipse_sb/sb_r_forearm_eclipse
+  rotate: true
+  xy: 558, 754
+  size: 148, 183
+  orig: 148, 183
+  offset: 0, 0
+  index: -1
+eclipse_sb/sb_r_hair_acc_eclipse
+  rotate: true
+  xy: 434, 429
+  size: 166, 288
+  orig: 166, 288
+  offset: 0, 0
+  index: -1
+eclipse_sf/sf_l_hair_acc_eclipse
+  rotate: true
+  xy: 434, 429
+  size: 166, 288
+  orig: 166, 288
+  offset: 0, 0
+  index: -1
+eclipse_sb/sb_r_hair_tail_eclipse
+  rotate: true
+  xy: 217, 484
+  size: 154, 215
+  orig: 214, 741
+  offset: 0, 526
+  index: -1
+eclipse_sb/sb_skirt_eclipse
+  rotate: false
+  xy: 394, 246
+  size: 253, 181
+  orig: 253, 181
+  offset: 0, 0
+  index: -1
+eclipse_sf/sf_body_eclipse
+  rotate: false
+  xy: 2, 311
+  size: 189, 172
+  orig: 189, 172
+  offset: 0, 0
+  index: -1
+eclipse_sf/sf_l_forearm_eclipse
+  rotate: true
+  xy: 743, 751
+  size: 151, 197
+  orig: 151, 197
+  offset: 0, 0
+  index: -1
+eclipse_sf/sf_l_hair_inside_eclipse
+  rotate: true
+  xy: 615, 2
+  size: 221, 320
+  orig: 248, 326
+  offset: 0, 6
+  index: -1
+eclipse_sf/sf_m_hair_acc_eclipse
+  rotate: false
+  xy: 2, 640
+  size: 566, 112
+  orig: 570, 112
+  offset: 4, 0
+  index: -1
+eclipse_sf/sf_r_hair_acc_eclipse
+  rotate: true
+  xy: 2, 485
+  size: 153, 213
+  orig: 153, 213
+  offset: 0, 0
+  index: -1
+eclipse_sf/sf_r_hair_outside_eclipse
+  rotate: true
+  xy: 570, 597
+  size: 152, 328
+  orig: 152, 338
+  offset: 0, 10
+  index: -1
+eclipse_sf/sf_skirt_eclipse
+  rotate: false
+  xy: 354, 35
+  size: 259, 209
+  orig: 259, 209
+  offset: 0, 0
+  index: -1
+
+eclipse_spine3.png
+size: 1004,787
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eclipse_b/b_hair_acc_eclipse
+  rotate: false
+  xy: 2, 547
+  size: 690, 238
+  orig: 690, 238
+  offset: 0, 0
+  index: -1
+eclipse_f/f_hair_acc_eclipse
+  rotate: false
+  xy: 2, 547
+  size: 690, 238
+  orig: 690, 238
+  offset: 0, 0
+  index: -1
+eclipse_b/b_skirt_eclipse
+  rotate: false
+  xy: 694, 539
+  size: 263, 246
+  orig: 263, 246
+  offset: 0, 0
+  index: -1
+eclipse_f/f_l_hair_inside_eclipse
+  rotate: true
+  xy: 634, 277
+  size: 260, 368
+  orig: 260, 368
+  offset: 0, 0
+  index: -1
+eclipse_f/f_r_hair_inside_eclipse
+  rotate: true
+  xy: 267, 287
+  size: 258, 365
+  orig: 258, 365
+  offset: 0, 0
+  index: -1
+eclipse_f/f_skirt_eclipse
+  rotate: false
+  xy: 2, 299
+  size: 263, 246
+  orig: 263, 246
+  offset: 0, 0
+  index: -1
+eclipse_sb/sb_b_hair_tail_eclipse
+  rotate: true
+  xy: 358, 2
+  size: 273, 415
+  orig: 273, 417
+  offset: 0, 2
+  index: -1
+eclipse_sf/sf_m_hair_eclipse
+  rotate: true
+  xy: 2, 14
+  size: 271, 354
+  orig: 284, 356
+  offset: 0, 2
+  index: -1
+
+eclipse_spine4.png
+size: 922,616
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eclipse_f/f_l_hair_outside_eclipse
+  rotate: true
+  xy: 2, 20
+  size: 310, 457
+  orig: 310, 457
+  offset: 0, 0
+  index: -1
+eclipse_f/f_r_hair_outside_eclipse
+  rotate: true
+  xy: 461, 2
+  size: 314, 459
+  orig: 314, 459
+  offset: 0, 0
+  index: -1
+eclipse_sf/sf_l_hair_outside_eclipse
+  rotate: true
+  xy: 2, 332
+  size: 282, 463
+  orig: 296, 493
+  offset: 14, 0
+  index: -1
+eclipse_sf/sf_r_hair_inside_eclipse
+  rotate: true
+  xy: 467, 318
+  size: 296, 355
+  orig: 296, 358
+  offset: 0, 3
+  index: -1
+
+eclipse_spine5.png
+size: 626,646
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eclipse_b/b_hair_eclipse
+  rotate: false
+  xy: 2, 2
+  size: 622, 642
+  orig: 622, 645
+  offset: 0, 3
+  index: -1
+
+eclipse_spine6.png
+size: 996,488
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eclipse_f/f_face_eclipse
+  rotate: false
+  xy: 2, 66
+  size: 478, 420
+  orig: 478, 420
+  offset: 0, 0
+  index: -1
+eclipse_sf/sf_face_eclipse
+  rotate: false
+  xy: 482, 2
+  size: 512, 484
+  orig: 512, 484
+  offset: 0, 0
+  index: -1
+
+eclipse_spine7.png
+size: 639,559
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eclipse_sf/sf_b_hair_eclipse
+  rotate: true
+  xy: 2, 2
+  size: 555, 635
+  orig: 555, 635
+  offset: 0, 0
+  index: -1
+
+eclipse_spine8.png
+size: 647,571
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eclipse_f/f_hair_b_eclipse
+  rotate: true
+  xy: 2, 2
+  size: 567, 643
+  orig: 571, 656
+  offset: 0, 13
+  index: -1
+
+eclipse_spine9.png
+size: 591,646
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eclipse_sb/sb_b_hair_eclipse
+  rotate: false
+  xy: 2, 2
+  size: 587, 642
+  orig: 598, 642
+  offset: 0, 0
+  index: -1

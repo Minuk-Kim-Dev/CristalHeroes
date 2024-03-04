@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+  m_Name: guardian_spine_Atlas
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: 78872e7f4a9c9b84ba23ce82e6dcf423, type: 3}
+  materials:
+  - {fileID: 2100000, guid: 355823afd8d5d144fa5c16495a5a6426, type: 2}
+  - {fileID: 2100000, guid: 8c45213e7ada86741b78e2937f704bbe, type: 2}
+  - {fileID: 2100000, guid: 5d03344ee47da9d4a8a69fd5e71486f4, type: 2}
+  - {fileID: 2100000, guid: 47535183e4ffb5746ad7c35f09e27cc6, type: 2}
+  - {fileID: 2100000, guid: e0efc62ad36c8a04884877615f5d2371, type: 2}
+  - {fileID: 2100000, guid: 2b534c702c6962b4185744156f4b4276, type: 2}

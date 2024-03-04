@@ -1,0 +1,687 @@
+
+guardian_spine.png
+size: 1017,1009
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+knight_guardian_b/b_l_upperarm_guardian
+  rotate: false
+  xy: 530, 107
+  size: 96, 212
+  orig: 96, 212
+  offset: 0, 0
+  index: -1
+knight_guardian_sb/sb_l_shoulder_guardian
+  rotate: true
+  xy: 530, 7
+  size: 98, 96
+  orig: 98, 96
+  offset: 0, 0
+  index: -1
+knight_guardian_sb/sb_weapon_guardian
+  rotate: false
+  xy: 628, 515
+  size: 355, 492
+  orig: 355, 492
+  offset: 0, 0
+  index: -1
+knight_guardian_sf/sf_helmet_1_guardian
+  rotate: false
+  xy: 2, 2
+  size: 526, 317
+  orig: 526, 317
+  offset: 0, 0
+  index: -1
+knight_guardian_sf/sf_helmet_2_guardian
+  rotate: false
+  xy: 2, 321
+  size: 624, 686
+  orig: 624, 686
+  offset: 0, 0
+  index: -1
+knight_guardian_sf/sf_r_hand_guardian
+  rotate: false
+  xy: 974, 465
+  size: 41, 48
+  orig: 41, 48
+  offset: 0, 0
+  index: -1
+knight_guardian_sf/sf_weapon_guardian
+  rotate: false
+  xy: 628, 18
+  size: 344, 495
+  orig: 344, 495
+  offset: 0, 0
+  index: -1
+
+guardian_spine2.png
+size: 999,1018
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+knight_guardian_b/b_weapon_guardian
+  rotate: false
+  xy: 617, 576
+  size: 355, 440
+  orig: 355, 440
+  offset: 0, 0
+  index: -1
+knight_guardian_f/f_helmet_1_guardian
+  rotate: false
+  xy: 2, 2
+  size: 613, 348
+  orig: 633, 348
+  offset: 0, 0
+  index: -1
+knight_guardian_f/f_helmet_2_guardian
+  rotate: false
+  xy: 2, 352
+  size: 613, 664
+  orig: 694, 664
+  offset: 0, 0
+  index: -1
+knight_guardian_f/f_pelvis_guardian
+  rotate: false
+  xy: 617, 12
+  size: 254, 120
+  orig: 254, 120
+  offset: 0, 0
+  index: -1
+knight_guardian_f/f_weapon_guardian
+  rotate: false
+  xy: 617, 134
+  size: 355, 440
+  orig: 355, 440
+  offset: 0, 0
+  index: -1
+knight_guardian_sf/sf_r_thigh_guardian
+  rotate: false
+  xy: 873, 4
+  size: 124, 128
+  orig: 124, 128
+  offset: 0, 0
+  index: -1
+
+guardian_spine3.png
+size: 1021,1004
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+knight_guardian_b/b_l_calf_guardian
+  rotate: true
+  xy: 178, 590
+  size: 98, 164
+  orig: 98, 164
+  offset: 0, 0
+  index: -1
+knight_guardian_b/b_l_elbow_guardian
+  rotate: true
+  xy: 374, 865
+  size: 74, 99
+  orig: 74, 99
+  offset: 0, 0
+  index: -1
+knight_guardian_b/b_l_forearm_guardian
+  rotate: true
+  xy: 233, 690
+  size: 89, 121
+  orig: 89, 121
+  offset: 0, 0
+  index: -1
+knight_guardian_b/b_l_hand_guardian
+  rotate: true
+  xy: 381, 944
+  size: 58, 69
+  orig: 58, 69
+  offset: 0, 0
+  index: -1
+knight_guardian_b/b_l_knee_guardian
+  rotate: true
+  xy: 402, 254
+  size: 111, 119
+  orig: 111, 119
+  offset: 0, 0
+  index: -1
+knight_guardian_b/b_l_shoulder_guardian
+  rotate: false
+  xy: 533, 940
+  size: 99, 62
+  orig: 99, 62
+  offset: 0, 0
+  index: -1
+knight_guardian_b/b_l_thigh_guardian
+  rotate: true
+  xy: 523, 254
+  size: 111, 112
+  orig: 111, 112
+  offset: 0, 0
+  index: -1
+knight_guardian_b/b_l_thigh_pad_guardian
+  rotate: true
+  xy: 565, 121
+  size: 123, 164
+  orig: 123, 164
+  offset: 0, 0
+  index: -1
+knight_guardian_b/b_pelvis_guardian
+  rotate: false
+  xy: 344, 583
+  size: 210, 97
+  orig: 210, 97
+  offset: 0, 0
+  index: -1
+knight_guardian_b/b_r_calf_guardian
+  rotate: true
+  xy: 2, 601
+  size: 96, 174
+  orig: 96, 174
+  offset: 0, 0
+  index: -1
+knight_guardian_b/b_r_elbow_guardian
+  rotate: true
+  xy: 283, 873
+  size: 72, 89
+  orig: 72, 89
+  offset: 0, 0
+  index: -1
+knight_guardian_b/b_r_forearm_guardian
+  rotate: true
+  xy: 898, 769
+  size: 88, 114
+  orig: 88, 114
+  offset: 0, 0
+  index: -1
+knight_guardian_b/b_r_hand_guardian
+  rotate: true
+  xy: 452, 941
+  size: 61, 79
+  orig: 61, 79
+  offset: 0, 0
+  index: -1
+knight_guardian_b/b_r_knee_guardian
+  rotate: true
+  xy: 728, 468
+  size: 103, 115
+  orig: 103, 115
+  offset: 0, 0
+  index: -1
+knight_guardian_b/b_r_shoulder_guardian
+  rotate: false
+  xy: 178, 876
+  size: 103, 70
+  orig: 103, 70
+  offset: 0, 0
+  index: -1
+knight_guardian_b/b_r_thigh_guardian
+  rotate: false
+  xy: 2, 393
+  size: 109, 106
+  orig: 109, 106
+  offset: 0, 0
+  index: -1
+knight_guardian_b/b_r_thigh_pad_guardian
+  rotate: true
+  xy: 731, 116
+  size: 124, 155
+  orig: 124, 155
+  offset: 0, 0
+  index: -1
+knight_guardian_b/b_r_upperarm_guardian
+  rotate: true
+  xy: 503, 367
+  size: 103, 216
+  orig: 103, 216
+  offset: 0, 0
+  index: -1
+knight_guardian_f/f_l_calf_guardian
+  rotate: true
+  xy: 2, 159
+  size: 112, 203
+  orig: 112, 203
+  offset: 0, 0
+  index: -1
+knight_guardian_f/f_l_elbow_guardian
+  rotate: true
+  xy: 2, 707
+  size: 88, 97
+  orig: 88, 97
+  offset: 0, 0
+  index: -1
+knight_guardian_f/f_l_forearm_guardian
+  rotate: true
+  xy: 563, 777
+  size: 84, 112
+  orig: 84, 112
+  offset: 0, 0
+  index: -1
+knight_guardian_f/f_l_hand_guardian
+  rotate: false
+  xy: 63, 950
+  size: 57, 52
+  orig: 57, 52
+  offset: 0, 0
+  index: -1
+knight_guardian_f/f_l_shoulder_guardian
+  rotate: false
+  xy: 634, 940
+  size: 102, 62
+  orig: 102, 62
+  offset: 0, 0
+  index: -1
+knight_guardian_f/f_l_thigh_guardian
+  rotate: false
+  xy: 196, 789
+  size: 124, 82
+  orig: 124, 82
+  offset: 0, 0
+  index: -1
+knight_guardian_f/f_l_thigh_pad_guardian
+  rotate: true
+  xy: 177, 2
+  size: 143, 174
+  orig: 143, 174
+  offset: 0, 0
+  index: -1
+knight_guardian_f/f_l_upperarm_guardian
+  rotate: true
+  xy: 652, 675
+  size: 94, 195
+  orig: 94, 195
+  offset: 0, 0
+  index: -1
+knight_guardian_f/f_r_calf_guardian
+  rotate: true
+  xy: 207, 147
+  size: 116, 193
+  orig: 116, 193
+  offset: 0, 0
+  index: -1
+knight_guardian_f/f_r_elbow_guardian
+  rotate: true
+  xy: 356, 688
+  size: 89, 97
+  orig: 89, 97
+  offset: 0, 0
+  index: -1
+knight_guardian_f/f_r_forearm_guardian
+  rotate: true
+  xy: 677, 774
+  size: 86, 112
+  orig: 86, 112
+  offset: 0, 0
+  index: -1
+knight_guardian_f/f_r_hand_guardian
+  rotate: false
+  xy: 122, 950
+  size: 58, 52
+  orig: 58, 52
+  offset: 0, 0
+  index: -1
+knight_guardian_f/f_r_shoulder_guardian
+  rotate: false
+  xy: 738, 940
+  size: 100, 62
+  orig: 100, 62
+  offset: 0, 0
+  index: -1
+knight_guardian_f/f_r_thigh_guardian
+  rotate: false
+  xy: 871, 859
+  size: 121, 79
+  orig: 121, 79
+  offset: 0, 0
+  index: -1
+knight_guardian_f/f_r_thigh_pad_guardian
+  rotate: true
+  xy: 2, 16
+  size: 141, 173
+  orig: 141, 173
+  offset: 0, 0
+  index: -1
+knight_guardian_f/f_r_upperarm_guardian
+  rotate: true
+  xy: 455, 682
+  size: 93, 195
+  orig: 93, 195
+  offset: 0, 0
+  index: -1
+knight_guardian_sb/sb_l_calf_guardian
+  rotate: true
+  xy: 113, 383
+  size: 105, 187
+  orig: 105, 187
+  offset: 0, 0
+  index: -1
+knight_guardian_sb/sb_l_elbow_guardian
+  rotate: true
+  xy: 764, 862
+  size: 76, 105
+  orig: 76, 105
+  offset: 0, 0
+  index: -1
+knight_guardian_sb/sb_l_forearm_guardian
+  rotate: true
+  xy: 556, 575
+  size: 98, 149
+  orig: 98, 149
+  offset: 0, 0
+  index: -1
+knight_guardian_sb/sb_l_hand_guardian
+  rotate: true
+  xy: 2, 952
+  size: 50, 59
+  orig: 50, 59
+  offset: 0, 0
+  index: -1
+knight_guardian_sb/sb_l_knee_guardian
+  rotate: false
+  xy: 322, 781
+  size: 113, 82
+  orig: 113, 82
+  offset: 0, 0
+  index: -1
+knight_guardian_sb/sb_l_thigh_guardian
+  rotate: false
+  xy: 721, 359
+  size: 122, 107
+  orig: 122, 107
+  offset: 0, 0
+  index: -1
+knight_guardian_sb/sb_l_thigh_pad_guardian
+  rotate: false
+  xy: 888, 75
+  size: 131, 165
+  orig: 131, 165
+  offset: 0, 0
+  index: -1
+knight_guardian_sb/sb_l_upperarm_guardian
+  rotate: true
+  xy: 305, 482
+  size: 99, 204
+  orig: 99, 204
+  offset: 0, 0
+  index: -1
+knight_guardian_sb/sb_pelvis_guardian
+  rotate: false
+  xy: 2, 273
+  size: 223, 108
+  orig: 223, 108
+  offset: 0, 0
+  index: -1
+knight_guardian_sb/sb_r_calf_guardian
+  rotate: true
+  xy: 707, 573
+  size: 98, 178
+  orig: 98, 178
+  offset: 0, 0
+  index: -1
+knight_guardian_sb/sb_r_elbow_guardian
+  rotate: true
+  xy: 82, 879
+  size: 69, 94
+  orig: 69, 94
+  offset: 0, 0
+  index: -1
+knight_guardian_sb/sb_r_forearm_guardian
+  rotate: true
+  xy: 849, 673
+  size: 94, 138
+  orig: 94, 138
+  offset: 0, 0
+  index: -1
+knight_guardian_sb/sb_r_hand_guardian
+  rotate: true
+  xy: 249, 948
+  size: 54, 69
+  orig: 54, 69
+  offset: 0, 0
+  index: -1
+knight_guardian_sb/sb_r_knee_guardian
+  rotate: false
+  xy: 791, 771
+  size: 105, 86
+  orig: 105, 86
+  offset: 0, 0
+  index: -1
+knight_guardian_sb/sb_r_shoulder_guardian
+  rotate: false
+  xy: 475, 864
+  size: 83, 74
+  orig: 83, 74
+  offset: 0, 0
+  index: -1
+knight_guardian_sb/sb_r_thigh_guardian
+  rotate: false
+  xy: 845, 355
+  size: 113, 107
+  orig: 113, 107
+  offset: 0, 0
+  index: -1
+knight_guardian_sb/sb_r_thigh_pad_guardian
+  rotate: true
+  xy: 227, 265
+  size: 110, 173
+  orig: 110, 173
+  offset: 0, 0
+  index: -1
+knight_guardian_sb/sb_r_upperarm_guardian
+  rotate: true
+  xy: 560, 863
+  size: 75, 202
+  orig: 75, 202
+  offset: 0, 0
+  index: -1
+knight_guardian_sf/sf_l_calf_guardian
+  rotate: true
+  xy: 2, 501
+  size: 98, 148
+  orig: 98, 148
+  offset: 0, 0
+  index: -1
+knight_guardian_sf/sf_l_elbow_guardian
+  rotate: false
+  xy: 2, 880
+  size: 78, 68
+  orig: 78, 70
+  offset: 0, 2
+  index: -1
+knight_guardian_sf/sf_l_forearm_guardian
+  rotate: true
+  xy: 101, 699
+  size: 88, 130
+  orig: 88, 130
+  offset: 0, 0
+  index: -1
+knight_guardian_sf/sf_l_hand_guardian
+  rotate: true
+  xy: 320, 947
+  size: 55, 59
+  orig: 55, 59
+  offset: 0, 0
+  index: -1
+knight_guardian_sf/sf_l_knee_guardian
+  rotate: true
+  xy: 887, 570
+  size: 101, 129
+  orig: 101, 129
+  offset: 0, 0
+  index: -1
+knight_guardian_sf/sf_l_shoulder_guardian
+  rotate: false
+  xy: 840, 940
+  size: 86, 62
+  orig: 86, 62
+  offset: 0, 0
+  index: -1
+knight_guardian_sf/sf_l_thigh_guardian
+  rotate: true
+  xy: 637, 246
+  size: 111, 126
+  orig: 111, 126
+  offset: 0, 0
+  index: -1
+knight_guardian_sf/sf_l_thigh_pad_guardian
+  rotate: true
+  xy: 402, 130
+  size: 122, 161
+  orig: 122, 161
+  offset: 0, 0
+  index: -1
+knight_guardian_sf/sf_l_upperarm_guardian
+  rotate: true
+  xy: 302, 377
+  size: 103, 199
+  orig: 103, 199
+  offset: 0, 0
+  index: -1
+knight_guardian_sf/sf_pelvis_guardian
+  rotate: false
+  xy: 511, 472
+  size: 215, 99
+  orig: 215, 105
+  offset: 0, 6
+  index: -1
+knight_guardian_sf/sf_r_calf_guardian
+  rotate: true
+  xy: 152, 490
+  size: 98, 151
+  orig: 98, 151
+  offset: 0, 0
+  index: -1
+knight_guardian_sf/sf_r_elbow_guardian
+  rotate: false
+  xy: 182, 950
+  size: 65, 52
+  orig: 65, 52
+  offset: 0, 0
+  index: -1
+knight_guardian_sf/sf_r_forearm_guardian
+  rotate: true
+  xy: 437, 779
+  size: 82, 124
+  orig: 82, 124
+  offset: 0, 0
+  index: -1
+knight_guardian_sf/sf_r_knee_guardian
+  rotate: true
+  xy: 845, 464
+  size: 104, 108
+  orig: 104, 108
+  offset: 0, 0
+  index: -1
+knight_guardian_sf/sf_r_shoulder_guardian
+  rotate: false
+  xy: 928, 940
+  size: 74, 62
+  orig: 74, 62
+  offset: 0, 0
+  index: -1
+knight_guardian_sf/sf_r_thigh_pad_guardian
+  rotate: true
+  xy: 765, 242
+  size: 111, 158
+  orig: 111, 158
+  offset: 0, 0
+  index: -1
+knight_guardian_sf/sf_r_upperarm_guardian
+  rotate: true
+  xy: 2, 797
+  size: 77, 192
+  orig: 77, 192
+  offset: 0, 0
+  index: -1
+
+guardian_spine4.png
+size: 940,745
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+knight_guardian_b/b_back_body
+  rotate: false
+  xy: 312, 2
+  size: 314, 288
+  orig: 314, 288
+  offset: 0, 0
+  index: -1
+knight_guardian_b/b_body_guardian
+  rotate: false
+  xy: 545, 292
+  size: 241, 236
+  orig: 241, 236
+  offset: 0, 0
+  index: -1
+knight_guardian_f/f_body_back_guardian
+  rotate: false
+  xy: 714, 530
+  size: 224, 213
+  orig: 225, 215
+  offset: 1, 0
+  index: -1
+knight_guardian_f/f_body_guardian
+  rotate: false
+  xy: 2, 325
+  size: 237, 213
+  orig: 237, 213
+  offset: 0, 0
+  index: -1
+knight_guardian_sb/sb_back_body
+  rotate: true
+  xy: 2, 57
+  size: 256, 308
+  orig: 261, 308
+  offset: 0, 0
+  index: -1
+knight_guardian_sb/sb_body_pad_guardian
+  rotate: true
+  xy: 240, 540
+  size: 203, 242
+  orig: 257, 257
+  offset: 32, 0
+  index: -1
+knight_guardian_sb/sb_helmet_1_guardian
+  rotate: true
+  xy: 2, 551
+  size: 192, 236
+  orig: 192, 236
+  offset: 0, 0
+  index: -1
+knight_guardian_sf/sf_back_body
+  rotate: true
+  xy: 241, 315
+  size: 219, 302
+  orig: 229, 302
+  offset: 0, 0
+  index: -1
+knight_guardian_sf/sf_body_pad_guardian
+  rotate: true
+  xy: 484, 536
+  size: 207, 228
+  orig: 207, 247
+  offset: 0, 4
+  index: -1
+
+guardian_spine5.png
+size: 633,570
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+knight_guardian_sb/sb_helmet_2_guardian
+  rotate: true
+  xy: 2, 2
+  size: 566, 629
+  orig: 566, 629
+  offset: 0, 0
+  index: -1
+
+guardian_spine6.png
+size: 589,651
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+knight_guardian_b/b_helmet_guardian
+  rotate: false
+  xy: 2, 2
+  size: 585, 647
+  orig: 585, 647
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+  m_Name: ranger_spine_Atlas
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: 2357917aa71a9014b866c366f2ec7a3e, type: 3}
+  materials:
+  - {fileID: 2100000, guid: fdae11949eed08148838284ad774dd19, type: 2}
+  - {fileID: 2100000, guid: 9275e28a4b85eab40a634e04e69db01f, type: 2}
+  - {fileID: 2100000, guid: 93b53757610e2e043a2d37739f35b76a, type: 2}
+  - {fileID: 2100000, guid: 47eae7bf76e84bc449573bd21f2eab6c, type: 2}
+  - {fileID: 2100000, guid: 5ad2a51b36b123e4caa171f4b2b8cb89, type: 2}
+  - {fileID: 2100000, guid: 177fb2573b63b244a971bf47d9582bab, type: 2}
+  - {fileID: 2100000, guid: 458997af32c78384881959be7754497d, type: 2}
+  - {fileID: 2100000, guid: 29a1435a24f38244e8df40d24f06a12c, type: 2}
+  - {fileID: 2100000, guid: 1d5fa187ec6142c43b2f1685a65e87c9, type: 2}
+  - {fileID: 2100000, guid: 05ac3817b484f2a4594a9c6a1d5c99de, type: 2}
+  - {fileID: 2100000, guid: fb7b63e66e6dc6149aed79e71d33ca4c, type: 2}

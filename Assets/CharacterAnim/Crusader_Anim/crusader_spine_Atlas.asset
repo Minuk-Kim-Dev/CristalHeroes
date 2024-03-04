@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+  m_Name: crusader_spine_Atlas
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: 2e61c575a02bbff408ff7ae9050ee72d, type: 3}
+  materials:
+  - {fileID: 2100000, guid: 418bb1cbdcd381c4b9ac93afb52bebc1, type: 2}
+  - {fileID: 2100000, guid: 6f7592c3746ee644fa5d840443404b8f, type: 2}
+  - {fileID: 2100000, guid: 452e4eccfc360c64c941b82a94edd24a, type: 2}
+  - {fileID: 2100000, guid: 4ef30b0c60a99b54a87fc14c247b35e3, type: 2}
+  - {fileID: 2100000, guid: 6fa6fd8381e72404c88fb54c3fce29d6, type: 2}
+  - {fileID: 2100000, guid: 4c80234d61042f146b657a7589254960, type: 2}
+  - {fileID: 2100000, guid: 4ab0e7da76c95a447b44f9df2d32cef6, type: 2}

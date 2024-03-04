@@ -1,0 +1,27 @@
+
+bishop_weapon.png
+size: 511,537
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bishop_ring_1
+  rotate: true
+  xy: 2, 2
+  size: 533, 91
+  orig: 533, 91
+  offset: 0, 0
+  index: -1
+bishop_ring_2
+  rotate: true
+  xy: 95, 2
+  size: 533, 78
+  orig: 533, 78
+  offset: 0, 0
+  index: -1
+bishop_weapon
+  rotate: true
+  xy: 175, 198
+  size: 337, 334
+  orig: 341, 334
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+  m_Name: eclipse_spine_Atlas
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: 58d5825bb6cece9429d3fb2b492dc001, type: 3}
+  materials:
+  - {fileID: 2100000, guid: b7e8921815549164fa1099a8330b8120, type: 2}
+  - {fileID: 2100000, guid: ed3cc99f66480174fa170902dc415e33, type: 2}
+  - {fileID: 2100000, guid: 56d51b9796416a0419e00fbafaf3f7cd, type: 2}
+  - {fileID: 2100000, guid: f5222d908a95489458ebee20782d4cf6, type: 2}
+  - {fileID: 2100000, guid: 375b1bf7c8a2e844eb4b99b6e7ed4ae0, type: 2}
+  - {fileID: 2100000, guid: 9b3395e9ae549494987a1fcc5b5041b9, type: 2}
+  - {fileID: 2100000, guid: aa130ddfd982ba24bb2c3ccaadf27350, type: 2}
+  - {fileID: 2100000, guid: e3be4cc14a45b784fb307fbd97d98982, type: 2}
+  - {fileID: 2100000, guid: ee4f60c7814d13f46a549f5f5914c5b6, type: 2}

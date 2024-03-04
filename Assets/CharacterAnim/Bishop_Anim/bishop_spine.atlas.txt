@@ -1,0 +1,825 @@
+
+bishop_spine.png
+size: 1020,987
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bishop_b/b_hair_antenna_bishop
+  rotate: true
+  xy: 805, 900
+  size: 53, 89
+  orig: 53, 90
+  offset: 0, 1
+  index: -1
+bishop_b/b_l_calf_bishop
+  rotate: true
+  xy: 528, 569
+  size: 89, 140
+  orig: 97, 141
+  offset: 8, 1
+  index: -1
+bishop_b/b_l_ribbon_bishop
+  rotate: false
+  xy: 2, 801
+  size: 84, 74
+  orig: 84, 75
+  offset: 0, 0
+  index: -1
+bishop_b/b_l_skirt_bishop
+  rotate: true
+  xy: 290, 246
+  size: 115, 185
+  orig: 115, 186
+  offset: 0, 0
+  index: -1
+bishop_b/b_l_thigh_bishop
+  rotate: true
+  xy: 248, 787
+  size: 76, 157
+  orig: 76, 160
+  offset: 0, 2
+  index: -1
+bishop_b/b_l_upperarm_bishop
+  rotate: true
+  xy: 403, 608
+  size: 92, 123
+  orig: 99, 123
+  offset: 0, 0
+  index: -1
+bishop_b/b_r_calf_bishop
+  rotate: true
+  xy: 141, 612
+  size: 88, 140
+  orig: 88, 141
+  offset: 0, 1
+  index: -1
+bishop_b/b_r_hair_tail_bishop
+  rotate: true
+  xy: 731, 52
+  size: 119, 177
+  orig: 120, 178
+  offset: 0, 1
+  index: -1
+bishop_b/b_r_ribbon_bishop
+  rotate: false
+  xy: 680, 844
+  size: 84, 73
+  orig: 85, 74
+  offset: 0, 0
+  index: -1
+bishop_b/b_r_skirt_bishop
+  rotate: true
+  xy: 477, 241
+  size: 115, 186
+  orig: 115, 186
+  offset: 0, 0
+  index: -1
+bishop_b/b_r_thigh_bishop
+  rotate: true
+  xy: 88, 801
+  size: 74, 158
+  orig: 74, 159
+  offset: 0, 0
+  index: -1
+bishop_f/f_l_thigh_bishop
+  rotate: true
+  xy: 88, 801
+  size: 74, 158
+  orig: 74, 159
+  offset: 0, 0
+  index: -1
+bishop_b/b_r_upperarm_bishop
+  rotate: true
+  xy: 302, 509
+  size: 97, 128
+  orig: 99, 128
+  offset: 0, 0
+  index: -1
+bishop_f/f_eyebrow
+  rotate: false
+  xy: 210, 929
+  size: 303, 29
+  orig: 303, 29
+  offset: 0, 0
+  index: -1
+bishop_f/f_eyebrow_close
+  rotate: false
+  xy: 499, 960
+  size: 311, 25
+  orig: 311, 25
+  offset: 0, 0
+  index: -1
+bishop_f/f_eyebrow_fight
+  rotate: false
+  xy: 515, 919
+  size: 288, 39
+  orig: 288, 39
+  offset: 0, 0
+  index: -1
+bishop_f/f_hair_antenna_bishop
+  rotate: true
+  xy: 896, 897
+  size: 53, 89
+  orig: 53, 90
+  offset: 0, 1
+  index: -1
+bishop_f/f_l_calf_bishop
+  rotate: true
+  xy: 647, 660
+  size: 84, 133
+  orig: 86, 133
+  offset: 2, 0
+  index: -1
+bishop_f/f_l_eye
+  rotate: false
+  xy: 665, 203
+  size: 146, 115
+  orig: 146, 115
+  offset: 0, 0
+  index: -1
+bishop_f/f_l_eye_close
+  rotate: false
+  xy: 2, 937
+  size: 102, 34
+  orig: 102, 34
+  offset: 0, 0
+  index: -1
+bishop_f/f_l_eye_fight
+  rotate: false
+  xy: 150, 702
+  size: 130, 83
+  orig: 130, 83
+  offset: 0, 0
+  index: -1
+bishop_f/f_l_hair_tail_bishop
+  rotate: true
+  xy: 175, 7
+  size: 120, 178
+  orig: 120, 178
+  offset: 0, 0
+  index: -1
+bishop_f/f_l_ribbon_bishop
+  rotate: false
+  xy: 766, 825
+  size: 95, 73
+  orig: 95, 73
+  offset: 0, 0
+  index: -1
+bishop_f/f_l_skirt_bishop
+  rotate: true
+  xy: 2, 178
+  size: 115, 186
+  orig: 115, 186
+  offset: 0, 0
+  index: -1
+bishop_f/f_l_upperarm_bishop
+  rotate: true
+  xy: 262, 403
+  size: 104, 137
+  orig: 104, 137
+  offset: 0, 0
+  index: -1
+bishop_f/f_mouth
+  rotate: false
+  xy: 159, 969
+  size: 50, 16
+  orig: 50, 16
+  offset: 0, 0
+  index: -1
+bishop_f/f_mouth_fight
+  rotate: false
+  xy: 109, 972
+  size: 48, 13
+  orig: 48, 13
+  offset: 0, 0
+  index: -1
+bishop_f/f_r_calf_bishop
+  rotate: true
+  xy: 782, 656
+  size: 84, 133
+  orig: 86, 138
+  offset: 0, 0
+  index: -1
+bishop_f/f_r_eye
+  rotate: false
+  xy: 813, 173
+  size: 146, 115
+  orig: 146, 115
+  offset: 0, 0
+  index: -1
+bishop_f/f_r_eye_close
+  rotate: false
+  xy: 106, 933
+  size: 102, 34
+  orig: 102, 34
+  offset: 0, 0
+  index: -1
+bishop_f/f_r_eye_fight
+  rotate: false
+  xy: 282, 702
+  size: 130, 83
+  orig: 130, 83
+  offset: 0, 0
+  index: -1
+bishop_f/f_r_hair_tail_bishop
+  rotate: true
+  xy: 355, 2
+  size: 120, 180
+  orig: 120, 182
+  offset: 0, 2
+  index: -1
+bishop_f/f_r_ribbon_bishop
+  rotate: false
+  xy: 863, 822
+  size: 94, 73
+  orig: 96, 73
+  offset: 1, 0
+  index: -1
+bishop_f/f_r_skirt_bishop
+  rotate: true
+  xy: 190, 129
+  size: 115, 186
+  orig: 115, 186
+  offset: 0, 0
+  index: -1
+bishop_f/f_r_thigh_bishop
+  rotate: true
+  xy: 407, 787
+  size: 76, 157
+  orig: 76, 160
+  offset: 0, 2
+  index: -1
+bishop_f/f_r_upperarm_bishop
+  rotate: true
+  xy: 118, 414
+  size: 102, 142
+  orig: 109, 142
+  offset: 0, 0
+  index: -1
+bishop_sb/sb_hair_antenna_bishop
+  rotate: true
+  xy: 566, 767
+  size: 76, 93
+  orig: 77, 94
+  offset: 0, 0
+  index: -1
+bishop_sb/sb_l_calf_bishop
+  rotate: false
+  xy: 898, 290
+  size: 111, 135
+  orig: 111, 135
+  offset: 0, 0
+  index: -1
+bishop_sb/sb_l_forearm_bishop
+  rotate: true
+  xy: 2, 59
+  size: 117, 171
+  orig: 118, 174
+  offset: 1, 1
+  index: -1
+bishop_sb/sb_l_hair_tail_bishop
+  rotate: true
+  xy: 133, 295
+  size: 106, 155
+  orig: 121, 158
+  offset: 15, 1
+  index: -1
+bishop_sb/sb_l_ribbon_bishop
+  rotate: true
+  xy: 661, 765
+  size: 77, 78
+  orig: 80, 80
+  offset: 3, 1
+  index: -1
+bishop_sb/sb_l_skirt_bishop
+  rotate: true
+  xy: 714, 320
+  size: 105, 182
+  orig: 105, 182
+  offset: 0, 0
+  index: -1
+bishop_sb/sb_l_thigh_bishop
+  rotate: true
+  xy: 670, 564
+  size: 90, 177
+  orig: 92, 179
+  offset: 1, 1
+  index: -1
+bishop_sb/sb_l_upperarm_bishop
+  rotate: true
+  xy: 533, 680
+  size: 85, 112
+  orig: 85, 112
+  offset: 0, 0
+  index: -1
+bishop_sb/sb_r_calf_bishop
+  rotate: true
+  xy: 2, 717
+  size: 82, 146
+  orig: 82, 146
+  offset: 0, 0
+  index: -1
+bishop_sb/sb_r_ribbon_bishop
+  rotate: false
+  xy: 2, 415
+  size: 114, 113
+  orig: 114, 113
+  offset: 0, 0
+  index: -1
+bishop_sb/sb_r_skirt_bishop
+  rotate: true
+  xy: 751, 427
+  size: 99, 175
+  orig: 99, 175
+  offset: 0, 0
+  index: -1
+bishop_sb/sb_r_thigh_bishop
+  rotate: true
+  xy: 378, 124
+  size: 115, 185
+  orig: 116, 188
+  offset: 0, 2
+  index: -1
+bishop_sb/sb_r_upperarm_bishop
+  rotate: true
+  xy: 401, 363
+  size: 105, 128
+  orig: 105, 128
+  offset: 0, 0
+  index: -1
+bishop_sf/sf_eyebrow
+  rotate: false
+  xy: 2, 877
+  size: 288, 50
+  orig: 288, 50
+  offset: 0, 0
+  index: -1
+bishop_sf/sf_eyebrow_close
+  rotate: false
+  xy: 211, 962
+  size: 286, 23
+  orig: 286, 23
+  offset: 0, 0
+  index: -1
+bishop_sf/sf_eyebrow_fight
+  rotate: false
+  xy: 292, 865
+  size: 284, 52
+  orig: 284, 52
+  offset: 0, 0
+  index: -1
+bishop_sf/sf_hair_antenna_bishop
+  rotate: true
+  xy: 741, 746
+  size: 77, 94
+  orig: 77, 94
+  offset: 0, 0
+  index: -1
+bishop_sf/sf_l_calf_bishop
+  rotate: true
+  xy: 432, 470
+  size: 97, 147
+  orig: 97, 147
+  offset: 0, 0
+  index: -1
+bishop_sf/sf_l_eye
+  rotate: false
+  xy: 2, 307
+  size: 129, 105
+  orig: 129, 105
+  offset: 0, 0
+  index: -1
+bishop_sf/sf_l_eye_close
+  rotate: false
+  xy: 910, 952
+  size: 108, 33
+  orig: 108, 33
+  offset: 0, 0
+  index: -1
+bishop_sf/sf_l_eye_fight
+  rotate: false
+  xy: 2, 530
+  size: 122, 96
+  orig: 122, 96
+  offset: 0, 0
+  index: -1
+bishop_sf/sf_l_hair_tail_bishop
+  rotate: true
+  xy: 565, 85
+  size: 116, 164
+  orig: 116, 164
+  offset: 0, 0
+  index: -1
+bishop_sf/sf_l_ribbon_bishop
+  rotate: false
+  xy: 837, 742
+  size: 104, 78
+  orig: 104, 78
+  offset: 0, 0
+  index: -1
+bishop_sf/sf_l_thigh_bishop
+  rotate: true
+  xy: 531, 358
+  size: 104, 181
+  orig: 104, 181
+  offset: 0, 0
+  index: -1
+bishop_sf/sf_l_upperarm_bishop
+  rotate: true
+  xy: 849, 528
+  size: 96, 128
+  orig: 96, 128
+  offset: 0, 0
+  index: -1
+bishop_sf/sf_mouth
+  rotate: false
+  xy: 56, 973
+  size: 51, 12
+  orig: 51, 12
+  offset: 0, 0
+  index: -1
+bishop_sf/sf_mouth_fight
+  rotate: false
+  xy: 2, 974
+  size: 52, 11
+  orig: 52, 11
+  offset: 0, 0
+  index: -1
+bishop_sf/sf_r_calf_bishop
+  rotate: true
+  xy: 2, 628
+  size: 87, 137
+  orig: 87, 137
+  offset: 0, 0
+  index: -1
+bishop_sf/sf_r_eye
+  rotate: true
+  xy: 917, 626
+  size: 114, 101
+  orig: 114, 101
+  offset: 0, 0
+  index: -1
+bishop_sf/sf_r_eye_close
+  rotate: false
+  xy: 812, 955
+  size: 96, 30
+  orig: 96, 30
+  offset: 0, 0
+  index: -1
+bishop_sf/sf_r_eye_fight
+  rotate: false
+  xy: 283, 612
+  size: 118, 88
+  orig: 118, 88
+  offset: 0, 0
+  index: -1
+bishop_sf/sf_r_ribbon_bishop
+  rotate: false
+  xy: 578, 845
+  size: 100, 72
+  orig: 100, 72
+  offset: 0, 0
+  index: -1
+bishop_sf/sf_r_skirt_bishop
+  rotate: true
+  xy: 126, 518
+  size: 92, 174
+  orig: 92, 174
+  offset: 0, 0
+  index: -1
+bishop_sf/sf_r_thigh_bishop
+  rotate: true
+  xy: 581, 464
+  size: 98, 168
+  orig: 101, 168
+  offset: 1, 0
+  index: -1
+bishop_sf/sf_r_upperarm_bishop
+  rotate: true
+  xy: 414, 702
+  size: 83, 117
+  orig: 83, 117
+  offset: 0, 0
+  index: -1
+
+bishop_spine2.png
+size: 957,958
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bishop_b/b_hair_bishop
+  rotate: false
+  xy: 2, 314
+  size: 622, 642
+  orig: 622, 645
+  offset: 0, 3
+  index: -1
+bishop_f/f_l_hair_outside_bishop
+  rotate: true
+  xy: 463, 2
+  size: 310, 457
+  orig: 310, 457
+  offset: 0, 0
+  index: -1
+bishop_f/f_r_hair_outside_bishop
+  rotate: true
+  xy: 2, 2
+  size: 310, 459
+  orig: 314, 459
+  offset: 1, 0
+  index: -1
+bishop_sf/sf_l_hair_outside_bishop
+  rotate: false
+  xy: 626, 493
+  size: 283, 463
+  orig: 296, 493
+  offset: 13, 0
+  index: -1
+bishop_sf/sf_r_hair_outside_bishop
+  rotate: true
+  xy: 626, 339
+  size: 152, 329
+  orig: 152, 338
+  offset: 0, 9
+  index: -1
+
+bishop_spine3.png
+size: 1012,942
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bishop_b/b_body_bishop
+  rotate: false
+  xy: 2, 317
+  size: 196, 194
+  orig: 196, 194
+  offset: 0, 0
+  index: -1
+bishop_b/b_l_forearm_bishop
+  rotate: true
+  xy: 2, 676
+  size: 141, 168
+  orig: 142, 176
+  offset: 0, 8
+  index: -1
+bishop_b/b_l_hair_tail_bishop
+  rotate: true
+  xy: 2, 819
+  size: 121, 176
+  orig: 122, 177
+  offset: 0, 0
+  index: -1
+bishop_b/b_m_skirt_bishop
+  rotate: true
+  xy: 201, 510
+  size: 152, 175
+  orig: 152, 175
+  offset: 0, 0
+  index: -1
+bishop_b/b_r_forearm_bishop
+  rotate: true
+  xy: 694, 806
+  size: 134, 160
+  orig: 134, 161
+  offset: 0, 0
+  index: -1
+bishop_f/f_body_bishop
+  rotate: true
+  xy: 417, 292
+  size: 195, 204
+  orig: 195, 204
+  offset: 0, 0
+  index: -1
+bishop_f/f_l_forearm_bishop
+  rotate: true
+  xy: 356, 808
+  size: 132, 155
+  orig: 132, 155
+  offset: 0, 0
+  index: -1
+bishop_f/f_m_hair_bishop
+  rotate: true
+  xy: 623, 261
+  size: 207, 346
+  orig: 209, 356
+  offset: 2, 10
+  index: -1
+bishop_f/f_m_skirt_bishop
+  rotate: true
+  xy: 378, 502
+  size: 152, 175
+  orig: 152, 175
+  offset: 0, 0
+  index: -1
+bishop_f/f_r_forearm_bishop
+  rotate: true
+  xy: 856, 798
+  size: 142, 154
+  orig: 142, 154
+  offset: 0, 0
+  index: -1
+bishop_f/f_r_hair_inside_bishop
+  rotate: true
+  xy: 322, 2
+  size: 257, 365
+  orig: 258, 365
+  offset: 1, 0
+  index: -1
+bishop_sb/sb_body_bishop
+  rotate: false
+  xy: 732, 470
+  size: 188, 176
+  orig: 189, 176
+  offset: 0, 0
+  index: -1
+bishop_sb/sb_m_skirt_bishop
+  rotate: false
+  xy: 530, 656
+  size: 161, 149
+  orig: 161, 149
+  offset: 0, 0
+  index: -1
+bishop_sb/sb_r_forearm_bishop
+  rotate: true
+  xy: 693, 648
+  size: 148, 183
+  orig: 148, 183
+  offset: 0, 0
+  index: -1
+bishop_sb/sb_r_hair_tail_bishop
+  rotate: true
+  xy: 331, 664
+  size: 141, 197
+  orig: 141, 197
+  offset: 0, 0
+  index: -1
+bishop_sf/sf_body_bishop
+  rotate: true
+  xy: 200, 306
+  size: 194, 215
+  orig: 194, 215
+  offset: 0, 0
+  index: -1
+bishop_sf/sf_l_forearm_bishop
+  rotate: true
+  xy: 2, 513
+  size: 151, 197
+  orig: 151, 197
+  offset: 0, 0
+  index: -1
+bishop_sf/sf_l_hair_inside_bishop
+  rotate: true
+  xy: 2, 82
+  size: 222, 318
+  orig: 248, 326
+  offset: 0, 8
+  index: -1
+bishop_sf/sf_l_skirt_bishop
+  rotate: true
+  xy: 513, 807
+  size: 133, 179
+  orig: 133, 179
+  offset: 0, 0
+  index: -1
+bishop_sf/sf_m_skirt_bishop
+  rotate: false
+  xy: 555, 489
+  size: 175, 157
+  orig: 175, 157
+  offset: 0, 0
+  index: -1
+bishop_sf/sf_r_forearm_bishop
+  rotate: true
+  xy: 180, 810
+  size: 130, 174
+  orig: 130, 174
+  offset: 0, 0
+  index: -1
+bishop_sf/sf_r_hair_tail_bishop
+  rotate: false
+  xy: 172, 666
+  size: 157, 142
+  orig: 157, 142
+  offset: 0, 0
+  index: -1
+
+bishop_spine4.png
+size: 787,996
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bishop_f/f_face_bishop
+  rotate: false
+  xy: 2, 2
+  size: 478, 420
+  orig: 478, 420
+  offset: 0, 0
+  index: -1
+bishop_f/f_l_hair_inside_bishop
+  rotate: true
+  xy: 2, 734
+  size: 260, 368
+  orig: 260, 368
+  offset: 0, 0
+  index: -1
+bishop_sb/sb_b_hair_tail_bishop
+  rotate: true
+  xy: 372, 722
+  size: 272, 413
+  orig: 273, 417
+  offset: 1, 4
+  index: -1
+bishop_sf/sf_m_hair_bishop
+  rotate: true
+  xy: 2, 460
+  size: 272, 353
+  orig: 284, 356
+  offset: 0, 3
+  index: -1
+bishop_sf/sf_r_hair_inside_bishop
+  rotate: true
+  xy: 357, 424
+  size: 296, 353
+  orig: 296, 358
+  offset: 0, 5
+  index: -1
+
+bishop_spine5.png
+size: 587,641
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bishop_sb/sb_b_hair_bishop
+  rotate: false
+  xy: 2, 2
+  size: 583, 637
+  orig: 598, 642
+  offset: 1, 3
+  index: -1
+
+bishop_spine6.png
+size: 1023,640
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bishop_b/b_halo_bishop
+  rotate: true
+  xy: 567, 164
+  size: 474, 454
+  orig: 474, 454
+  offset: 0, 0
+  index: -1
+bishop_f/f_halo_bishop
+  rotate: true
+  xy: 567, 164
+  size: 474, 454
+  orig: 474, 454
+  offset: 0, 0
+  index: -1
+bishop_f/f_hair_b_bishop
+  rotate: false
+  xy: 2, 2
+  size: 563, 636
+  orig: 571, 656
+  offset: 0, 19
+  index: -1
+
+bishop_spine7.png
+size: 559,639
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bishop_sf/sf_b_hair_bishop
+  rotate: false
+  xy: 2, 2
+  size: 555, 635
+  orig: 555, 635
+  offset: 0, 0
+  index: -1
+
+bishop_spine8.png
+size: 964,951
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bishop_sb/sb_halo_bishop
+  rotate: false
+  xy: 488, 2
+  size: 474, 467
+  orig: 474, 467
+  offset: 0, 0
+  index: -1
+bishop_sf/sf_face_bishop
+  rotate: true
+  xy: 2, 437
+  size: 512, 484
+  orig: 512, 484
+  offset: 0, 0
+  index: -1
+bishop_sf/sf_halo_bishop
+  rotate: false
+  xy: 488, 471
+  size: 474, 478
+  orig: 474, 478
+  offset: 0, 0
+  index: -1

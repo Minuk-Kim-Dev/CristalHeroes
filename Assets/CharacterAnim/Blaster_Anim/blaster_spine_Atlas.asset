@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+  m_Name: blaster_spine_Atlas
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: 58419705f6765e7428d3ef6eab7a94c6, type: 3}
+  materials:
+  - {fileID: 2100000, guid: 3c844f99bcf27f34eb802d74309dc07e, type: 2}
+  - {fileID: 2100000, guid: 405d9ff3e7221cd4fb0c546c19aa6519, type: 2}
+  - {fileID: 2100000, guid: e206d0c62e5c2504ab40b323953782ac, type: 2}
+  - {fileID: 2100000, guid: 8079deb1f93c307409949763621293a9, type: 2}
+  - {fileID: 2100000, guid: 81ba737325a5faf498bb059fa2c9b7cc, type: 2}
+  - {fileID: 2100000, guid: d6538d8156e5a294ca3dc3ea4b1ba06d, type: 2}
+  - {fileID: 2100000, guid: 5a23b3a9b0027254386f208367d3734f, type: 2}
+  - {fileID: 2100000, guid: 11a8e4ddb5cf4f245a1d1a05cb82a62b, type: 2}
+  - {fileID: 2100000, guid: 13d86b96d071c3b4b8303cb0af51e004, type: 2}
+  - {fileID: 2100000, guid: e9608d12f273a124e86cbb6587483bbc, type: 2}

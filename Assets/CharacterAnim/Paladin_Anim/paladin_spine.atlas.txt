@@ -1,0 +1,748 @@
+
+paladin_spine.png
+size: 1014,1013
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+knight_paladin_b/b_l_forearm_paladin
+  rotate: true
+  xy: 414, 791
+  size: 97, 128
+  orig: 100, 133
+  offset: 0, 0
+  index: -1
+knight_paladin_b/b_l_hand_paladin
+  rotate: true
+  xy: 737, 955
+  size: 56, 79
+  orig: 56, 79
+  offset: 0, 0
+  index: -1
+knight_paladin_b/b_l_leg_paladin
+  rotate: true
+  xy: 553, 215
+  size: 117, 250
+  orig: 117, 250
+  offset: 0, 0
+  index: -1
+knight_paladin_b/b_l_shoulder_paladin
+  rotate: false
+  xy: 2, 838
+  size: 91, 84
+  orig: 91, 84
+  offset: 0, 0
+  index: -1
+knight_paladin_b/b_l_upperarm_paladin
+  rotate: true
+  xy: 225, 246
+  size: 118, 156
+  orig: 121, 167
+  offset: 3, 11
+  index: -1
+knight_paladin_b/b_r_forearm_paladin
+  rotate: true
+  xy: 544, 784
+  size: 97, 128
+  orig: 100, 133
+  offset: 3, 0
+  index: -1
+knight_paladin_b/b_r_hand_paladin
+  rotate: true
+  xy: 818, 955
+  size: 56, 79
+  orig: 56, 79
+  offset: 0, 0
+  index: -1
+knight_paladin_b/b_r_leg_paladin
+  rotate: true
+  xy: 2, 127
+  size: 117, 250
+  orig: 117, 250
+  offset: 0, 0
+  index: -1
+knight_paladin_b/b_r_shoulder_paladin
+  rotate: false
+  xy: 95, 829
+  size: 91, 84
+  orig: 91, 84
+  offset: 0, 0
+  index: -1
+knight_paladin_b/b_r_upperarm_paladin
+  rotate: true
+  xy: 383, 220
+  size: 118, 168
+  orig: 118, 172
+  offset: 0, 4
+  index: -1
+knight_paladin_f/f_eye_fight_frown
+  rotate: false
+  xy: 68, 998
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+knight_paladin_f/f_fight_mouth
+  rotate: false
+  xy: 186, 980
+  size: 72, 31
+  orig: 72, 31
+  offset: 0, 0
+  index: -1
+knight_paladin_f/f_l_calf_paladin
+  rotate: true
+  xy: 257, 586
+  size: 101, 229
+  orig: 102, 229
+  offset: 0, 0
+  index: -1
+knight_paladin_f/f_l_eye
+  rotate: false
+  xy: 805, 197
+  size: 158, 121
+  orig: 158, 121
+  offset: 0, 0
+  index: -1
+knight_paladin_f/f_l_eye_close
+  rotate: false
+  xy: 501, 965
+  size: 113, 46
+  orig: 113, 46
+  offset: 0, 0
+  index: -1
+knight_paladin_f/f_l_eye_fight
+  rotate: false
+  xy: 437, 340
+  size: 149, 115
+  orig: 149, 115
+  offset: 0, 0
+  index: -1
+knight_paladin_f/f_l_forearm_paladin
+  rotate: true
+  xy: 585, 883
+  size: 80, 110
+  orig: 80, 110
+  offset: 0, 0
+  index: -1
+knight_paladin_f/f_l_hand_paladin
+  rotate: true
+  xy: 2, 938
+  size: 58, 74
+  orig: 61, 74
+  offset: 0, 0
+  index: -1
+knight_paladin_f/f_l_shoulder_paladin
+  rotate: true
+  xy: 488, 574
+  size: 106, 111
+  orig: 119, 111
+  offset: 3, 0
+  index: -1
+knight_paladin_f/f_l_uppearm_paladin
+  rotate: true
+  xy: 884, 662
+  size: 104, 108
+  orig: 104, 109
+  offset: 0, 1
+  index: -1
+knight_paladin_f/f_l_upperarm_pad_paladin
+  rotate: false
+  xy: 664, 674
+  size: 110, 103
+  orig: 110, 106
+  offset: 0, 0
+  index: -1
+knight_paladin_f/f_mouth
+  rotate: false
+  xy: 2, 1002
+  size: 27, 9
+  orig: 27, 9
+  offset: 0, 0
+  index: -1
+knight_paladin_f/f_pelvis_tag_paladin
+  rotate: true
+  xy: 697, 878
+  size: 75, 184
+  orig: 75, 184
+  offset: 0, 0
+  index: -1
+knight_paladin_f/f_r_calf_paladin
+  rotate: true
+  xy: 709, 558
+  size: 102, 229
+  orig: 102, 229
+  offset: 0, 0
+  index: -1
+knight_paladin_f/f_r_eye
+  rotate: false
+  xy: 383, 97
+  size: 157, 121
+  orig: 157, 121
+  offset: 0, 0
+  index: -1
+knight_paladin_f/f_r_eye_close
+  rotate: false
+  xy: 616, 965
+  size: 119, 46
+  orig: 119, 46
+  offset: 0, 0
+  index: -1
+knight_paladin_f/f_r_eye_fight
+  rotate: false
+  xy: 852, 320
+  size: 149, 115
+  orig: 149, 115
+  offset: 0, 0
+  index: -1
+knight_paladin_f/f_r_forearm_paladin
+  rotate: true
+  xy: 883, 872
+  size: 81, 108
+  orig: 81, 109
+  offset: 0, 0
+  index: -1
+knight_paladin_f/f_r_hand_paladin
+  rotate: true
+  xy: 78, 924
+  size: 59, 73
+  orig: 60, 74
+  offset: 1, 0
+  index: -1
+knight_paladin_f/f_r_shoulder_pladin
+  rotate: false
+  xy: 892, 768
+  size: 103, 102
+  orig: 113, 102
+  offset: 7, 0
+  index: -1
+knight_paladin_f/f_r_uppearm_pad_paladin
+  rotate: false
+  xy: 144, 599
+  size: 111, 104
+  orig: 111, 106
+  offset: 0, 0
+  index: -1
+knight_paladin_f/f_r_uppearm_paladin
+  rotate: true
+  xy: 786, 772
+  size: 98, 104
+  orig: 98, 104
+  offset: 0, 0
+  index: -1
+knight_paladin_sb/sb_l_forearm_paladin
+  rotate: true
+  xy: 481, 457
+  size: 107, 141
+  orig: 107, 141
+  offset: 0, 0
+  index: -1
+knight_paladin_sb/sb_l_hand_paladin
+  rotate: true
+  xy: 240, 900
+  size: 70, 74
+  orig: 70, 74
+  offset: 0, 0
+  index: -1
+knight_paladin_sb/sb_l_leg_paladin
+  rotate: true
+  xy: 624, 450
+  size: 106, 257
+  orig: 106, 257
+  offset: 0, 0
+  index: -1
+knight_paladin_sb/sb_l_shoulder_paladin
+  rotate: true
+  xy: 188, 809
+  size: 89, 92
+  orig: 89, 92
+  offset: 0, 0
+  index: -1
+knight_paladin_sb/sb_l_upperarm_pad_paladin
+  rotate: false
+  xy: 119, 479
+  size: 125, 118
+  orig: 125, 120
+  offset: 0, 0
+  index: -1
+knight_paladin_sb/sb_l_upperarm_paladin
+  rotate: true
+  xy: 542, 91
+  size: 122, 139
+  orig: 122, 139
+  offset: 0, 0
+  index: -1
+knight_paladin_sb/sb_r_forearm_paladin
+  rotate: true
+  xy: 2, 727
+  size: 100, 142
+  orig: 102, 142
+  offset: 1, 0
+  index: -1
+knight_paladin_sb/sb_r_hand_paladin
+  rotate: true
+  xy: 316, 898
+  size: 70, 74
+  orig: 70, 74
+  offset: 0, 0
+  index: -1
+knight_paladin_sb/sb_r_leg_paladin
+  rotate: true
+  xy: 588, 334
+  size: 114, 262
+  orig: 114, 262
+  offset: 0, 0
+  index: -1
+knight_paladin_sb/sb_r_shoulder_paladin
+  rotate: false
+  xy: 496, 890
+  size: 87, 73
+  orig: 87, 73
+  offset: 0, 0
+  index: -1
+knight_paladin_sb/sb_r_upperarm_pad_paladin
+  rotate: true
+  xy: 392, 897
+  size: 71, 102
+  orig: 71, 102
+  offset: 0, 0
+  index: -1
+knight_paladin_sb/sb_r_upperarm_paladin
+  rotate: true
+  xy: 674, 779
+  size: 97, 110
+  orig: 97, 110
+  offset: 0, 0
+  index: -1
+knight_paladin_sb/sb_upperbody
+  rotate: true
+  xy: 2, 366
+  size: 141, 115
+  orig: 142, 115
+  offset: 0, 0
+  index: -1
+knight_paladin_sf/s_eye_fight_frown
+  rotate: true
+  xy: 87, 995
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
+knight_paladin_sf/s_eye_fight_mouth
+  rotate: false
+  xy: 110, 985
+  size: 74, 26
+  orig: 74, 26
+  offset: 0, 0
+  index: -1
+knight_paladin_sf/s_eye_mouth
+  rotate: false
+  xy: 31, 1002
+  size: 35, 9
+  orig: 35, 9
+  offset: 0, 0
+  index: -1
+knight_paladin_sf/s_l_eye
+  rotate: false
+  xy: 2, 2
+  size: 151, 123
+  orig: 151, 123
+  offset: 0, 0
+  index: -1
+knight_paladin_sf/s_l_eye_close
+  rotate: false
+  xy: 371, 970
+  size: 128, 41
+  orig: 128, 41
+  offset: 0, 0
+  index: -1
+knight_paladin_sf/s_l_eye_fight
+  rotate: false
+  xy: 2, 623
+  size: 140, 102
+  orig: 140, 102
+  offset: 0, 0
+  index: -1
+knight_paladin_sf/s_r_eye_close
+  rotate: false
+  xy: 260, 972
+  size: 109, 39
+  orig: 109, 39
+  offset: 0, 0
+  index: -1
+knight_paladin_sf/s_r_eye_fight
+  rotate: true
+  xy: 254, 111
+  size: 133, 127
+  orig: 133, 127
+  offset: 0, 0
+  index: -1
+knight_paladin_sf/sf_l_cardigan_paladin
+  rotate: true
+  xy: 683, 75
+  size: 120, 319
+  orig: 121, 323
+  offset: 1, 0
+  index: -1
+knight_paladin_sf/sf_l_forearm_paladin
+  rotate: true
+  xy: 358, 689
+  size: 100, 139
+  orig: 100, 140
+  offset: 0, 1
+  index: -1
+knight_paladin_sf/sf_l_hand_paladin
+  rotate: true
+  xy: 153, 915
+  size: 63, 85
+  orig: 63, 85
+  offset: 0, 0
+  index: -1
+knight_paladin_sf/sf_l_leg_paladin
+  rotate: true
+  xy: 2, 250
+  size: 114, 221
+  orig: 114, 221
+  offset: 0, 0
+  index: -1
+knight_paladin_sf/sf_l_shoulder_paladin
+  rotate: true
+  xy: 2, 509
+  size: 112, 115
+  orig: 112, 115
+  offset: 0, 0
+  index: -1
+knight_paladin_sf/sf_l_upperarm_pad_paladin
+  rotate: true
+  xy: 883, 437
+  size: 119, 129
+  orig: 119, 129
+  offset: 0, 0
+  index: -1
+knight_paladin_sf/sf_pelvis_pad_paladin
+  rotate: true
+  xy: 146, 705
+  size: 98, 210
+  orig: 98, 210
+  offset: 0, 0
+  index: -1
+knight_paladin_sf/sf_r_cardigan_paladin
+  rotate: true
+  xy: 119, 366
+  size: 111, 316
+  orig: 111, 316
+  offset: 0, 0
+  index: -1
+knight_paladin_sf/sf_r_forearm_paladin
+  rotate: true
+  xy: 282, 805
+  size: 90, 130
+  orig: 90, 130
+  offset: 0, 0
+  index: -1
+knight_paladin_sf/sf_r_hand_paladin
+  rotate: true
+  xy: 899, 955
+  size: 56, 66
+  orig: 56, 66
+  offset: 0, 0
+  index: -1
+knight_paladin_sf/sf_r_leg_paladin
+  rotate: true
+  xy: 246, 479
+  size: 105, 233
+  orig: 105, 233
+  offset: 0, 0
+  index: -1
+knight_paladin_sf/sf_r_shoulder_paladin
+  rotate: false
+  xy: 601, 566
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+knight_paladin_sf/sf_r_upperarm_pad_paladin
+  rotate: true
+  xy: 776, 667
+  size: 103, 106
+  orig: 103, 106
+  offset: 0, 0
+  index: -1
+knight_paladin_sf/sf_r_upperarm_paladin
+  rotate: true
+  xy: 499, 682
+  size: 100, 163
+  orig: 100, 163
+  offset: 0, 0
+  index: -1
+
+paladin_spine2.png
+size: 1007,922
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+knight_paladin_b/b_l_upperarm_pad_paladin
+  rotate: true
+  xy: 630, 789
+  size: 131, 133
+  orig: 143, 202
+  offset: 0, 0
+  index: -1
+knight_paladin_b/b_r_upperarm_pad_paladin
+  rotate: true
+  xy: 496, 791
+  size: 129, 132
+  orig: 141, 204
+  offset: 12, 0
+  index: -1
+knight_paladin_b/b_robe_paladin
+  rotate: false
+  xy: 267, 472
+  size: 299, 161
+  orig: 299, 161
+  offset: 0, 0
+  index: -1
+knight_paladin_f/f_body_paladin
+  rotate: true
+  xy: 2, 494
+  size: 160, 263
+  orig: 160, 263
+  offset: 0, 0
+  index: -1
+knight_paladin_f/f_l_cardigan_paladin
+  rotate: true
+  xy: 2, 656
+  size: 136, 326
+  orig: 206, 327
+  offset: 19, 0
+  index: -1
+knight_paladin_f/f_r_cardigan_paladin
+  rotate: true
+  xy: 162, 794
+  size: 126, 332
+  orig: 242, 332
+  offset: 69, 0
+  index: -1
+knight_paladin_f/f_robe_paladin
+  rotate: false
+  xy: 568, 444
+  size: 331, 180
+  orig: 349, 180
+  offset: 0, 0
+  index: -1
+knight_paladin_f/f_weapon_2_paladin
+  rotate: true
+  xy: 2, 7
+  size: 222, 325
+  orig: 222, 325
+  offset: 0, 0
+  index: -1
+knight_paladin_sb/sb_hair_shadow_paladin
+  rotate: false
+  xy: 329, 2
+  size: 436, 227
+  orig: 436, 227
+  offset: 0, 0
+  index: -1
+knight_paladin_sb/sb_lowerbody
+  rotate: false
+  xy: 787, 173
+  size: 218, 269
+  orig: 218, 279
+  offset: 0, 0
+  index: -1
+knight_paladin_sb/sb_robe_paladin
+  rotate: false
+  xy: 330, 635
+  size: 291, 154
+  orig: 291, 154
+  offset: 0, 0
+  index: -1
+knight_paladin_sf/s_r_eye
+  rotate: false
+  xy: 765, 787
+  size: 148, 133
+  orig: 148, 133
+  offset: 0, 0
+  index: -1
+knight_paladin_sf/sf_body_paladin
+  rotate: true
+  xy: 2, 270
+  size: 200, 294
+  orig: 200, 294
+  offset: 0, 0
+  index: -1
+knight_paladin_sf/sf_hair_shadow_paladin
+  rotate: false
+  xy: 298, 231
+  size: 487, 211
+  orig: 487, 211
+  offset: 0, 0
+  index: -1
+knight_paladin_sf/sf_l_uppearm_paladin
+  rotate: true
+  xy: 2, 795
+  size: 125, 158
+  orig: 125, 158
+  offset: 0, 0
+  index: -1
+knight_paladin_sf/sf_robe_paladin
+  rotate: false
+  xy: 623, 626
+  size: 340, 159
+  orig: 340, 159
+  offset: 0, 0
+  index: -1
+
+paladin_spine3.png
+size: 929,797
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+knight_paladin_b/b_body_paladin
+  rotate: true
+  xy: 2, 554
+  size: 241, 382
+  orig: 241, 382
+  offset: 0, 0
+  index: -1
+knight_paladin_f/f_l_hair_paladin
+  rotate: true
+  xy: 2, 291
+  size: 261, 469
+  orig: 261, 477
+  offset: 0, 8
+  index: -1
+knight_paladin_sf/sf_l_hair_back_paladin
+  rotate: true
+  xy: 473, 270
+  size: 282, 454
+  orig: 282, 454
+  offset: 0, 0
+  index: -1
+knight_paladin_sf/sf_l_hair_paladin
+  rotate: true
+  xy: 386, 554
+  size: 241, 478
+  orig: 241, 478
+  offset: 0, 0
+  index: -1
+weapon_1_paladin
+  rotate: true
+  xy: 2, 2
+  size: 266, 885
+  orig: 266, 885
+  offset: 0, 0
+  index: -1
+
+paladin_spine4.png
+size: 915,699
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+knight_paladin_f/f_m_hair_paladin
+  rotate: true
+  xy: 2, 17
+  size: 375, 398
+  orig: 375, 400
+  offset: 0, 0
+  index: -1
+knight_paladin_f/f_weapon_1_paladin
+  rotate: true
+  xy: 377, 394
+  size: 303, 536
+  orig: 303, 536
+  offset: 0, 0
+  index: -1
+knight_paladin_sf/sf_m_hair_paladin
+  rotate: true
+  xy: 402, 2
+  size: 390, 393
+  orig: 412, 393
+  offset: 22, 0
+  index: -1
+weapon_2_paladin
+  rotate: true
+  xy: 2, 405
+  size: 292, 373
+  orig: 292, 373
+  offset: 0, 0
+  index: -1
+
+paladin_spine5.png
+size: 672,602
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+knight_paladin_b/b_hair_paladin
+  rotate: false
+  xy: 2, 2
+  size: 668, 598
+  orig: 668, 598
+  offset: 0, 0
+  index: -1
+
+paladin_spine6.png
+size: 1017,981
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+knight_paladin_b/b_face_paladin
+  rotate: false
+  xy: 2, 89
+  size: 517, 445
+  orig: 517, 445
+  offset: 0, 0
+  index: -1
+knight_paladin_f/f_face_paladin
+  rotate: false
+  xy: 2, 536
+  size: 563, 443
+  orig: 563, 443
+  offset: 0, 0
+  index: -1
+knight_paladin_sb/sb_face_paladin
+  rotate: true
+  xy: 567, 516
+  size: 463, 448
+  orig: 463, 448
+  offset: 0, 0
+  index: -1
+knight_paladin_sf/sf_r_hair_paladin
+  rotate: false
+  xy: 521, 2
+  size: 446, 512
+  orig: 446, 512
+  offset: 0, 0
+  index: -1
+
+paladin_spine7.png
+size: 541,963
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+knight_paladin_f/f_r_hair_paladin
+  rotate: false
+  xy: 2, 2
+  size: 513, 495
+  orig: 516, 500
+  offset: 0, 5
+  index: -1
+knight_paladin_sf/sf_face_paladin
+  rotate: false
+  xy: 2, 499
+  size: 537, 462
+  orig: 537, 462
+  offset: 0, 0
+  index: -1
+
+paladin_spine8.png
+size: 674,553
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+knight_paladin_sb/sb_hair_paladin
+  rotate: false
+  xy: 2, 2
+  size: 670, 549
+  orig: 670, 549
+  offset: 0, 0
+  index: -1
